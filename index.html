@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>日語 Shadowing 句型代換</title>
+
+  <meta name="description" content="日語 Shadowing 口語句型代換特訓工具，支援多種訓練模式與本地教材管理，可安裝為手機 PWA。">
+  <meta name="theme-color" content="#38bdf8">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Shadowing">
+
+  <link rel="stylesheet" href="dist/tailwind.css">
+  <style>
+    html, body { height: 100%; }
+    body {
+      min-height: 100dvh;
+      font-family: -apple-system, 'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif;
+      overscroll-behavior-y: none;
+    }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #f0f6fc; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+    /* Ruby / 振假名：明確覆蓋所有 reset，確保平假名正確顯示 */
+    ruby {
+      display: ruby !important;
+      ruby-position: over !important;
+      ruby-align: center !important;
+    }
+    rt {
+      display: ruby-text !important;
+      ruby-position: over !important;
+      font-size: 0.42em !important;
+      letter-spacing: 0.08em !important;
+      padding-bottom: 3px !important;
+      line-height: 1 !important;
+      font-weight: 500 !important;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-tr from-[#f0f9ff] via-[#e0f2fe] to-[#f0f9ff] text-slate-700 min-h-screen">
+  <div id="root"></div>
+  <script src="lib/react.production.min.js"></script>
+  <script src="lib/react-dom.production.min.js"></script>
+  <script src="dist/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js');
+      });
+    }
+  </script>
+</body>
+</html>
