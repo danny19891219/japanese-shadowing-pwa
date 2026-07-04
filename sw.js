@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'shadowing-pwa-v1';
+const CACHE_VERSION = 'shadowing-pwa-v2';
 const APP_SHELL = [
   './',
   './index.html',
@@ -7,6 +7,7 @@ const APP_SHELL = [
   './dist/tailwind.css',
   './lib/react.production.min.js',
   './lib/react-dom.production.min.js',
+  './data/patterns.json',
   './icons/icon192.png',
   './icons/icon512.png'
 ];

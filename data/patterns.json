@@ -1,0 +1,4698 @@
+[
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ない形": "泳がない",
+            "意向形": "泳ごう"
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "ない形": "遊ばない",
+            "意向形": "遊ぼう"
+          },
+          "kana": "あそぶ",
+          "kanji": "遊ぶ",
+          "meaning": "玩樂"
+        },
+        {
+          "conjugations": {
+            "ない形": "走らない",
+            "意向形": "走ろう"
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑步"
+        },
+        {
+          "conjugations": {
+            "ない形": "絵本を読まない",
+            "意向形": "絵本を読もう"
+          },
+          "kana": "えほんをよむ",
+          "kanji": "絵本を読む",
+          "meaning": "讀繪本"
+        }
+      ]
+    },
+    "group": "Chapter 03",
+    "level": "N3",
+    "template": "あまり [動詞_ない形]。",
+    "translation": "不太 [動詞]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ない形": "泳がない",
+            "意向形": "泳ごう"
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "ない形": "遊ばない",
+            "意向形": "遊ぼう"
+          },
+          "kana": "あそぶ",
+          "kanji": "遊ぶ",
+          "meaning": "玩樂"
+        },
+        {
+          "conjugations": {
+            "ない形": "走らない",
+            "意向形": "走ろう"
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑步"
+        },
+        {
+          "conjugations": {
+            "ない形": "絵本を読まない",
+            "意向形": "絵本を読もう"
+          },
+          "kana": "えほんをよむ",
+          "kanji": "絵本を読む",
+          "meaning": "讀繪本"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "かれら",
+          "kanji": "彼ら",
+          "meaning": "他們"
+        },
+        {
+          "kana": "かのじょ",
+          "kanji": "彼女",
+          "meaning": "她"
+        },
+        {
+          "kana": "かのじょたち",
+          "kanji": "彼女たち",
+          "meaning": "她們"
+        },
+        {
+          "kana": "こどもたち",
+          "kanji": "子供たち",
+          "meaning": "孩子們"
+        }
+      ]
+    },
+    "group": "Chapter 03",
+    "level": "N3",
+    "template": "あまり [對象] と [動詞_ない形]。",
+    "translation": "不太跟 [對象] 一起 [動詞]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ない形": "泳がない",
+            "意向形": "泳ごう"
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "ない形": "遊ばない",
+            "意向形": "遊ぼう"
+          },
+          "kana": "あそぶ",
+          "kanji": "遊ぶ",
+          "meaning": "玩樂"
+        },
+        {
+          "conjugations": {
+            "ない形": "走らない",
+            "意向形": "走ろう"
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑步"
+        },
+        {
+          "conjugations": {
+            "ない形": "読まない",
+            "意向形": "読もう"
+          },
+          "kana": "よむ",
+          "kanji": "読む",
+          "meaning": "讀"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "かれら",
+          "kanji": "彼ら",
+          "meaning": "他們"
+        },
+        {
+          "kana": "かのじょ",
+          "kanji": "彼女",
+          "meaning": "她"
+        },
+        {
+          "kana": "かのじょたち",
+          "kanji": "彼女たち",
+          "meaning": "她們"
+        },
+        {
+          "kana": "こどもとえほん",
+          "kanji": "子供と絵本",
+          "meaning": "孩子與繪本"
+        }
+      ],
+      "時間": [
+        {
+          "kana": "さいきん",
+          "kanji": "最近",
+          "meaning": "最近"
+        },
+        {
+          "kana": "こんしゅう",
+          "kanji": "今週",
+          "meaning": "這禮拜"
+        },
+        {
+          "kana": "こんげつ",
+          "kanji": "今月",
+          "meaning": "這個月"
+        },
+        {
+          "kana": "ことし",
+          "kanji": "今年",
+          "meaning": "今年"
+        }
+      ]
+    },
+    "group": "Chapter 03",
+    "level": "N3",
+    "template": "[時間] は、あまり [對象] と [動詞_ない形]。",
+    "translation": "[時間] 不太跟 [對象] 一起 [動詞]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "kana": "およぐ",
+            "ない形": "泳がない",
+            "意向形": "泳ごう"
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "ない形": "遊ばない",
+            "意向形": "遊ぼう"
+          },
+          "kana": "あそぶ",
+          "kanji": "遊ぶ",
+          "meaning": "玩樂"
+        },
+        {
+          "conjugations": {
+            "ない形": "走らない",
+            "意向形": "走ろう"
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑步"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "わたしたち",
+          "kanji": "私たち",
+          "meaning": "我們"
+        },
+        {
+          "kana": "ぼくら",
+          "kanji": "僕ら",
+          "meaning": "我們(男稱)"
+        },
+        {
+          "kana": "こどもたち",
+          "kanji": "子供たち",
+          "meaning": "孩子們"
+        }
+      ],
+      "時間": [
+        {
+          "kana": "つぎ",
+          "kanji": "次",
+          "meaning": "下次"
+        },
+        {
+          "kana": "らいしゅう",
+          "kanji": "来週",
+          "meaning": "下禮拜"
+        },
+        {
+          "kana": "らいげつ",
+          "kanji": "来月",
+          "meaning": "下個月"
+        },
+        {
+          "kana": "らいねん",
+          "kanji": "来年",
+          "meaning": "明年"
+        }
+      ]
+    },
+    "group": "Chapter 03",
+    "level": "N3",
+    "template": "[時間] は、[對象] と 一緒に [動詞_意向形]。",
+    "translation": "[時間] 跟 [對象] 一起 [動詞] 吧。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "きか",
+              "text": "聞か"
+            },
+            "ます形": {
+              "kana": "きき",
+              "text": "聞き"
+            },
+            "可能形": {
+              "kana": "きけ",
+              "text": "聞け"
+            },
+            "意向形": {
+              "kana": "きこ",
+              "text": "聞こ"
+            },
+            "普通形": {
+              "kana": "きく",
+              "text": "聞く"
+            }
+          },
+          "kana": "きく",
+          "kanji": "聞く",
+          "meaning": "聽"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "おさ",
+              "text": "押さ"
+            },
+            "ます形": {
+              "kana": "おし",
+              "text": "押し"
+            },
+            "可能形": {
+              "kana": "おせ",
+              "text": "押せ"
+            },
+            "意向形": {
+              "kana": "おそ",
+              "text": "おそ"
+            },
+            "普通形": {
+              "kana": "おす",
+              "text": "押す"
+            }
+          },
+          "kana": "おす",
+          "kanji": "押す",
+          "meaning": "推"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "また",
+              "text": "待た"
+            },
+            "ます形": {
+              "kana": "まち",
+              "text": "待ち"
+            },
+            "可能形": {
+              "kana": "まて",
+              "text": "待て"
+            },
+            "意向形": {
+              "kana": "まと",
+              "text": "まと"
+            },
+            "普通形": {
+              "kana": "まつ",
+              "text": "待つ"
+            }
+          },
+          "kana": "まつ",
+          "kanji": "待つ",
+          "meaning": "等待"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "しな",
+              "text": "死な"
+            },
+            "ます形": {
+              "kana": "しに",
+              "text": "死に"
+            },
+            "可能形": {
+              "kana": "しね",
+              "text": "死ね"
+            },
+            "意向形": {
+              "kana": "しの",
+              "text": "しの"
+            },
+            "普通形": {
+              "kana": "しぬ",
+              "text": "死ぬ"
+            }
+          },
+          "kana": "しぬ",
+          "kanji": "死ぬ",
+          "meaning": "死"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "はこば",
+              "text": "運ば"
+            },
+            "ます形": {
+              "kana": "はこび",
+              "text": "運び"
+            },
+            "可能形": {
+              "kana": "はこべ",
+              "text": "運べ"
+            },
+            "意向形": {
+              "kana": "はこぼ",
+              "text": "運ぼ"
+            },
+            "普通形": {
+              "kana": "はこぶ",
+              "text": "運ぶ"
+            }
+          },
+          "kana": "はこぶ",
+          "kanji": "運ぶ",
+          "meaning": "搬運"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "よま",
+              "text": "読ま"
+            },
+            "ます形": {
+              "kana": "よみ",
+              "text": "読み"
+            },
+            "可能形": {
+              "kana": "よめ",
+              "text": "読め"
+            },
+            "意向形": {
+              "kana": "よも",
+              "text": "読も"
+            },
+            "普通形": {
+              "kana": "よむ",
+              "text": "読む"
+            }
+          },
+          "kana": "よむ",
+          "kanji": "読む",
+          "meaning": "閱讀"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "なら",
+              "text": "成ら"
+            },
+            "ます形": {
+              "kana": "なり",
+              "text": "成り"
+            },
+            "可能形": {
+              "kana": "nare",
+              "text": "成れ"
+            },
+            "意向形": {
+              "kana": "なろ",
+              "text": "成ろ"
+            },
+            "普通形": {
+              "kana": "なる",
+              "text": "成る"
+            }
+          },
+          "kana": "なる",
+          "kanji": "成る",
+          "meaning": "變成"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "言わ ない、言い たい、言う ようだ、言え る、言お う",
+    "translation": "不說、想說、似乎要說、能說、說吧"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "きけ",
+              "text": "聞け"
+            },
+            "ます形": {
+              "kana": "きき",
+              "text": "聞き"
+            },
+            "意向形": {
+              "kana": "きこ",
+              "text": "聞こ"
+            },
+            "普通形": {
+              "kana": "きく",
+              "text": "聞く"
+            },
+            "被動形": {
+              "kana": "きか",
+              "text": "聞か"
+            }
+          },
+          "kana": "きく",
+          "kanji": "聞く",
+          "meaning": "聽"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "おせ",
+              "text": "押せ"
+            },
+            "ます形": {
+              "kana": "おし",
+              "text": "押し"
+            },
+            "意向形": {
+              "kana": "おそ",
+              "text": "おそ"
+            },
+            "普通形": {
+              "kana": "おす",
+              "text": "押す"
+            },
+            "被動形": {
+              "kana": "おさ",
+              "text": "押さ"
+            }
+          },
+          "kana": "おす",
+          "kanji": "押す",
+          "meaning": "推"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "まて",
+              "text": "待て"
+            },
+            "ます形": {
+              "kana": "まち",
+              "text": "待ち"
+            },
+            "意向形": {
+              "kana": "まと",
+              "text": "まと"
+            },
+            "普通形": {
+              "kana": "まつ",
+              "text": "待つ"
+            },
+            "被動形": {
+              "kana": "また",
+              "text": "待た"
+            }
+          },
+          "kana": "まつ",
+          "kanji": "待つ",
+          "meaning": "等待"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "言わ れる、言い そうだ、言う べきだ、言え ば、言お う",
+    "translation": "被說、像要說、應該說、說的話、說吧"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "變化": {
+              "kana": "こうよば",
+              "text": "こう呼ば"
+            }
+          },
+          "kana": "こうよぶ",
+          "kanji": "こう呼ぶ",
+          "meaning": "這樣叫"
+        },
+        {
+          "conjugations": {
+            "變化": {
+              "kana": "こうわらわ",
+              "text": "こう笑わ"
+            }
+          },
+          "kana": "こうわらう",
+          "kanji": "こう笑う",
+          "meaning": "這樣笑"
+        },
+        {
+          "conjugations": {
+            "變化": {
+              "kana": "そうおこら",
+              "text": "そう怒ら"
+            }
+          },
+          "kana": "そうおこる",
+          "kanji": "そう怒る",
+          "meaning": "那樣生氣"
+        },
+        {
+          "conjugations": {
+            "變化": {
+              "kana": "そういわ",
+              "text": "そう言わ"
+            }
+          },
+          "kana": "argument_value",
+          "kanji": "そう言う",
+          "meaning": "那樣說"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "あに",
+          "kanji": "兄",
+          "meaning": "哥哥"
+        },
+        {
+          "kana": "あね",
+          "kanji": "姉",
+          "meaning": "姐姐"
+        },
+        {
+          "kana": "おとうと",
+          "kanji": "弟",
+          "meaning": "弟弟"
+        },
+        {
+          "kana": "いもうと",
+          "kanji": "妹",
+          "meaning": "妹妹"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "[對象] に [動詞_變化] れる。",
+    "translation": "被 [對象] [動詞]。"
+  },
+  {
+    "components": {
+      "主詞": [
+        {
+          "kana": "わたし",
+          "kanji": "私",
+          "meaning": "我（一般）"
+        },
+        {
+          "kana": "ぼく",
+          "kanji": "僕",
+          "meaning": "我（男性自稱）"
+        },
+        {
+          "kana": "しんどうさん",
+          "kanji": "進藤さん",
+          "meaning": "進藤先生/小姐"
+        },
+        {
+          "kana": "いのうえさん",
+          "kanji": "井上さん",
+          "meaning": "井上先生/小姐"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "[主詞] は、よく 先輩 に こう呼ば れる。",
+    "translation": "[主詞] 常常被學長這樣叫。"
+  },
+  {
+    "components": {
+      "動詞1": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "かえ",
+              "text": "買え"
+            }
+          },
+          "kana": "かう",
+          "kanji": "買う",
+          "meaning": "買"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "のめ",
+              "text": "飲め"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "よめ",
+              "text": "読め"
+            }
+          },
+          "kana": "よむ",
+          "kanji": "読む",
+          "meaning": "讀"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "はしれ",
+              "text": "走れ"
+            }
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑"
+        }
+      ],
+      "動詞2": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "なき",
+              "text": "泣き"
+            }
+          },
+          "kana": "なく",
+          "kanji": "泣く",
+          "meaning": "哭"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きれいになり",
+              "text": "綺麗になり"
+            }
+          },
+          "kana": "きれいになる",
+          "kanji": "綺麗になる",
+          "meaning": "變漂亮"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうずになり",
+              "text": "上手になり"
+            }
+          },
+          "kana": "じょうずになる",
+          "kanji": "上手になる",
+          "meaning": "變厲害"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうぶになり",
+              "text": "丈夫になり"
+            }
+          },
+          "kana": "じょうぶになる",
+          "kanji": "丈夫になる",
+          "meaning": "變強壯"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "[動詞1_ば形]えば、[動詞2_ます形]そうだ。",
+    "translation": "[動詞1] 的話，像是會 [動詞2]。"
+  },
+  {
+    "components": {
+      "主體": [
+        {
+          "kana": "つま",
+          "kanji": "妻",
+          "meaning": "妻子/太太"
+        }
+      ],
+      "動詞": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "いえ",
+              "text": "言え"
+            }
+          },
+          "kana": "いう",
+          "kanji": "言う",
+          "meaning": "說"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おこり",
+              "text": "怒り"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "生氣"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "本当のことを [動詞_ば形] えば、[主體] が [動詞_ます形] そうだ。",
+    "translation": "說出真相的話，[主體] 像是會生氣。"
+  },
+  {
+    "components": {
+      "動詞1": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "かえ",
+              "text": "買え"
+            }
+          },
+          "kana": "かう",
+          "kanji": "買う",
+          "meaning": "買"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "のめ",
+              "text": "飲め"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "よめ",
+              "text": "讀め"
+            }
+          },
+          "kana": "よむ",
+          "kanji": "読む",
+          "meaning": "讀"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "はしれ",
+              "text": "走れ"
+            }
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑"
+        }
+      ],
+      "動詞2": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "なき",
+              "text": "泣き"
+            }
+          },
+          "kana": "なく",
+          "kanji": "泣く",
+          "meaning": "哭泣"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きれいになり",
+              "text": "綺麗になり"
+            }
+          },
+          "kana": "きれいになる",
+          "kanji": "綺麗になる",
+          "meaning": "變漂亮"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうずになり",
+              "text": "上手になり"
+            }
+          },
+          "kana": "じょうずになる",
+          "kanji": "上手になる",
+          "meaning": "變厲害"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうぶになり",
+              "text": "丈夫になり"
+            }
+          },
+          "kana": "じょうぶになる",
+          "kanji": "丈夫になる",
+          "meaning": "變強壯"
+        }
+      ],
+      "名詞": [
+        {
+          "kana": "かばん",
+          "kanji": "かばん",
+          "meaning": "包包"
+        },
+        {
+          "kana": "じゅーす",
+          "kanji": "ジュース",
+          "meaning": "果汁"
+        },
+        {
+          "kana": "ほん",
+          "kanji": "本",
+          "meaning": "書本"
+        },
+        {
+          "kana": "まいにちごきろ",
+          "kanji": "毎日五キロ",
+          "meaning": "每天五公里"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "おっと",
+          "kanji": "夫",
+          "meaning": "丈夫/老公"
+        },
+        {
+          "kana": "はだ",
+          "kanji": "肌",
+          "meaning": "肌膚/皮膚"
+        },
+        {
+          "kana": "にほんご",
+          "kanji": "日本語",
+          "meaning": "日文/日本語"
+        },
+        {
+          "kana": "からだ",
+          "kanji": "体",
+          "meaning": "身體"
+        }
+      ]
+    },
+    "group": "Chapter 05",
+    "level": "N3",
+    "template": "こんな [名詞] を [動詞1_ば形] ば、[對象] が [動詞2_ます形] そうだ。",
+    "translation": "如果 [動詞1] 這種 [名詞] 的話，[對象] 好像會 [動詞2]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "いくこと",
+              "meaning": "去這事",
+              "text": "行くこと"
+            },
+            "ながら形": {
+              "kana": "いきながら",
+              "meaning": "一邊去",
+              "text": "行きながら"
+            },
+            "使役形": {
+              "kana": "いかせる",
+              "meaning": "讓他去",
+              "text": "行かせる"
+            },
+            "命令形": {
+              "kana": "いけ",
+              "meaning": "去！",
+              "text": "行け"
+            },
+            "意向形": {
+              "kana": "いこう",
+              "meaning": "去吧",
+              "text": "行こう"
+            }
+          },
+          "kana": "いく",
+          "kanji": "行く",
+          "meaning": "去"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "はなすこと",
+              "meaning": "說這事",
+              "text": "話すこと"
+            },
+            "ながら形": {
+              "kana": "はなしながら",
+              "meaning": "一邊說",
+              "text": "話しながら"
+            },
+            "使役形": {
+              "kana": "はなさせる",
+              "meaning": "讓她說",
+              "text": "話させる"
+            },
+            "命令形": {
+              "kana": "はなせ",
+              "meaning": "說！",
+              "text": "話せ"
+            },
+            "意向形": {
+              "kana": "はなそう",
+              "meaning": "說吧",
+              "text": "話そう"
+            }
+          },
+          "kana": "はなす",
+          "kanji": "話す",
+          "meaning": "說"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "たつこと",
+              "meaning": "站這事",
+              "text": "立つこと"
+            },
+            "ながら形": {
+              "kana": "たちながら",
+              "meaning": "一邊站",
+              "text": "立ちながら"
+            },
+            "使役形": {
+              "kana": "たたせる",
+              "meaning": "讓他站",
+              "text": "立たせる"
+            },
+            "命令形": {
+              "kana": "たて",
+              "meaning": "站著！",
+              "text": "立て"
+            },
+            "意向形": {
+              "kana": "たとう",
+              "meaning": "站吧",
+              "text": "立とう"
+            }
+          },
+          "kana": "たつ",
+          "kanji": "立つ",
+          "meaning": "站"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "しぬこと",
+              "meaning": "死這事",
+              "text": "死ぬこと"
+            },
+            "ながら形": {
+              "kana": "しにながら",
+              "meaning": "？（實際不使用）",
+              "text": "死にながら"
+            },
+            "使役形": {
+              "kana": "しなせる",
+              "meaning": "讓他死",
+              "text": "死なせる"
+            },
+            "命令形": {
+              "kana": "しね",
+              "meaning": "去死！",
+              "text": "死ね"
+            },
+            "意向形": {
+              "kana": "しのう",
+              "meaning": "死吧",
+              "text": "死のう"
+            }
+          },
+          "kana": "しぬ",
+          "kanji": "死ぬ",
+          "meaning": "死"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "あそぶこと",
+              "meaning": "玩這事",
+              "text": "遊ぶこと"
+            },
+            "ながら形": {
+              "kana": "あそびながら",
+              "meaning": "一邊玩",
+              "text": "遊びながら"
+            },
+            "使役形": {
+              "kana": "あそばせる",
+              "meaning": "讓她玩",
+              "text": "遊ばせる"
+            },
+            "命令形": {
+              "kana": "あそべ",
+              "meaning": "去玩！",
+              "text": "遊べ"
+            },
+            "意向形": {
+              "kana": "あそぼう",
+              "meaning": "玩吧",
+              "text": "遊ぼう"
+            }
+          },
+          "kana": "あそぶ",
+          "kanji": "遊ぶ",
+          "meaning": "玩"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "やすむこと",
+              "meaning": "休息這事",
+              "text": "休むこと"
+            },
+            "ながら形": {
+              "kana": "やすみながら",
+              "meaning": "一邊休息",
+              "text": "休みながら"
+            },
+            "使役形": {
+              "kana": "やすませる",
+              "meaning": "讓她休息",
+              "text": "休ませる"
+            },
+            "命令形": {
+              "kana": "やすめ",
+              "meaning": "去休息！",
+              "text": "休め"
+            },
+            "意向形": {
+              "kana": "やすもう",
+              "meaning": "休息吧",
+              "text": "休もう"
+            }
+          },
+          "kana": "やすむ",
+          "kanji": "休む",
+          "meaning": "休息"
+        },
+        {
+          "conjugations": {
+            "こと形": {
+              "kana": "がんばること",
+              "meaning": "努力這事",
+              "text": "頑張ること"
+            },
+            "ながら形": {
+              "kana": "がんばりながら",
+              "meaning": "一邊努力",
+              "text": "頑張りながら"
+            },
+            "使役形": {
+              "kana": "がんばらせる",
+              "meaning": "讓他加油",
+              "text": "頑張らせる"
+            },
+            "命令形": {
+              "kana": "がんばれ",
+              "meaning": "加油！",
+              "text": "頑張れ"
+            },
+            "意向形": {
+              "kana": "がんばろう",
+              "meaning": "加油吧",
+              "text": "頑張ろう"
+            }
+          },
+          "kana": "がんばる",
+          "kanji": "頑張る",
+          "meaning": "加油"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[動詞_使役形]、[動詞_ながら形]、[動詞_こと形]、[動詞_命令形]、[動詞_意向形]",
+    "translation": "讓他[動詞]、一邊[動詞]、[動詞]這事、[動詞]！、[動詞]吧"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "かかせる",
+              "text": "書かせる"
+            }
+          },
+          "kana": "かく",
+          "kanji": "書く",
+          "meaning": "寫"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "はしらせる",
+              "text": "走らせる"
+            }
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "およがせる",
+              "text": "泳がせる"
+            }
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "のませる",
+              "text": "飲ませる"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        }
+      ],
+      "目的語": [
+        {
+          "kana": "さくぶん",
+          "kanji": "作文",
+          "meaning": "作文"
+        },
+        {
+          "kana": "ごせんメートル",
+          "kanji": "五千メートル",
+          "meaning": "五千公尺"
+        },
+        {
+          "kana": "にひゃくメートル",
+          "kanji": "二百メートル",
+          "meaning": "兩百公尺"
+        },
+        {
+          "kana": "びーる",
+          "kanji": "ビール",
+          "meaning": "啤酒"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[目的語] を [動詞_使役形]。",
+    "translation": "要某人 [動詞] [目的語]。"
+  },
+  {
+    "components": {
+      "使役対象": [
+        {
+          "kana": "せいと",
+          "kanji": "生徒",
+          "meaning": "學生"
+        },
+        {
+          "kana": "やきゅうせんしゅ",
+          "kanji": "野球選手",
+          "meaning": "棒球選手"
+        },
+        {
+          "kana": "すいえいせんしゅ",
+          "kanji": "水泳選手",
+          "meaning": "游泳選手"
+        },
+        {
+          "kana": "しんにゅうしゃいん",
+          "kanji": "新入社員",
+          "meaning": "新進員工"
+        }
+      ],
+      "動詞": [
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "かかせる",
+              "text": "書かせる"
+            }
+          },
+          "kana": "かく",
+          "kanji": "書く",
+          "meaning": "寫"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "はしらせる",
+              "text": "走らせる"
+            }
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "およがせる",
+              "text": "泳がせる"
+            }
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "のませる",
+              "text": "飲ませる"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        }
+      ],
+      "目的語": [
+        {
+          "kana": "さくぶん",
+          "kanji": "作文",
+          "meaning": "作文"
+        },
+        {
+          "kana": "ごせんメートル",
+          "kanji": "五千メートル",
+          "meaning": "五千公尺"
+        },
+        {
+          "kana": "にひゃくメートル",
+          "kanji": "二百メートル",
+          "meaning": "兩百公尺"
+        },
+        {
+          "kana": "びーる",
+          "kanji": "ビール",
+          "meaning": "啤酒"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[使役対象] に [目的語] を [動詞_使役形]。",
+    "translation": "要 [使役対象] [動詞] [目的語]。"
+  },
+  {
+    "components": {
+      "主語": [
+        {
+          "kana": "なかのせんせい",
+          "kanji": "中野先生",
+          "meaning": "中野老師"
+        },
+        {
+          "kana": "のむらかんとく",
+          "kanji": "野村監督",
+          "meaning": "野村教練"
+        },
+        {
+          "kana": "うえはらコーチ",
+          "kanji": "上原コーチ",
+          "meaning": "上原教練"
+        },
+        {
+          "kana": "きのしたせんぱい",
+          "kanji": "木下先輩",
+          "meaning": "木下學長"
+        }
+      ],
+      "使役対象": [
+        {
+          "kana": "せいと",
+          "kanji": "生徒",
+          "meaning": "學生"
+        },
+        {
+          "kana": "やきゅうせんしゅ",
+          "kanji": "野球選手",
+          "meaning": "棒球選手"
+        },
+        {
+          "kana": "すいえいせんしゅ",
+          "kanji": "水泳選手",
+          "meaning": "游泳選手"
+        },
+        {
+          "kana": "しんにゅうしゃいん",
+          "kanji": "新入社員",
+          "meaning": "新進員工"
+        }
+      ],
+      "動詞": [
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "かかせる",
+              "text": "書かせる"
+            }
+          },
+          "kana": "かく",
+          "kanji": "書く",
+          "meaning": "寫"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "はしらせる",
+              "text": "走らせる"
+            }
+          },
+          "kana": "はしる",
+          "kanji": "走る",
+          "meaning": "跑"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "およがせる",
+              "text": "泳がせる"
+            }
+          },
+          "kana": "およぐ",
+          "kanji": "泳ぐ",
+          "meaning": "游泳"
+        },
+        {
+          "conjugations": {
+            "使役形": {
+              "kana": "のませる",
+              "text": "飲ませる"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        }
+      ],
+      "目的語": [
+        {
+          "kana": "さくぶん",
+          "kanji": "作文",
+          "meaning": "作文"
+        },
+        {
+          "kana": "ごせんメートル",
+          "kanji": "五千メートル",
+          "meaning": "五千公尺"
+        },
+        {
+          "kana": "にひゃくメートル",
+          "kanji": "二百メートル",
+          "meaning": "兩百公尺"
+        },
+        {
+          "kana": "びーる",
+          "kanji": "ビール",
+          "meaning": "啤酒"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[主語] は、[使役対象] に [目的語] を [動詞_使役形]。",
+    "translation": "[主語] 要 [使役対象] [動詞] [目的語]。"
+  },
+  {
+    "components": {
+      "動詞A": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ふくをえらび",
+              "text": "服を選び"
+            }
+          },
+          "kana": "ふくをえらぶ",
+          "kanji": "服を選ぶ",
+          "meaning": "挑衣服"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんがくをきき",
+              "text": "音楽を聴き"
+            }
+          },
+          "kana": "おんがくをきく",
+          "kanji": "音楽を聴く",
+          "meaning": "聽音樂"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "パソコンをつかい",
+              "text": "パソコンを使い"
+            }
+          },
+          "kana": "パソコンをつかう",
+          "kanji": "パソコンを使う",
+          "meaning": "用電腦"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "しゅくだいをやり",
+              "text": "宿題をやり"
+            }
+          },
+          "kana": "しゅくだいをやる",
+          "kanji": "宿題をやる",
+          "meaning": "做作業"
+        }
+      ],
+      "動詞B": [
+        {
+          "kana": "もんくをいう",
+          "kanji": "文句を言う",
+          "meaning": "埋怨"
+        },
+        {
+          "kana": "おどる",
+          "kanji": "踊る",
+          "meaning": "跳舞"
+        },
+        {
+          "kana": "コーヒーをのむ",
+          "kanji": "コーヒーを飲む",
+          "meaning": "喝咖啡"
+        },
+        {
+          "kana": "まんがをよむ",
+          "kanji": "漫画を読む",
+          "meaning": "看漫畫"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[動詞A_ます形] ながら [動詞B]。",
+    "translation": "一邊 [動詞A] 一邊 [動詞B]。"
+  },
+  {
+    "components": {
+      "動詞A": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ふくをえらび",
+              "text": "服を選び"
+            }
+          },
+          "kana": "ふくをえらぶ",
+          "kanji": "服を選ぶ",
+          "meaning": "挑衣服"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんがくをきき",
+              "text": "音楽を聴き"
+            }
+          },
+          "kana": "おんがくをきく",
+          "kanji": "音楽を聴く",
+          "meaning": "聽音樂"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "パソコンをつかい",
+              "text": "パソコンを使い"
+            }
+          },
+          "kana": "パソコンをつかう",
+          "kanji": "パソコンを使う",
+          "meaning": "用電腦"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "しゅくだいをやり",
+              "text": "宿題をやり"
+            }
+          },
+          "kana": "しゅくだいをやる",
+          "kanji": "宿題をやる",
+          "meaning": "做作業"
+        }
+      ],
+      "動詞B": [
+        {
+          "kana": "もんくをいう",
+          "kanji": "文句を言う",
+          "meaning": "埋怨"
+        },
+        {
+          "kana": "おどる",
+          "kanji": "踊る",
+          "meaning": "跳舞"
+        },
+        {
+          "kana": "コーヒーをのむ",
+          "kanji": "コーヒーを飲む",
+          "meaning": "喝咖啡"
+        },
+        {
+          "kana": "まんがをよむ",
+          "kanji": "漫画を読む",
+          "meaning": "看漫畫"
+        }
+      ],
+      "動詞C": [
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "きらわれる",
+              "meaning": "被討厭",
+              "text": "嫌われる"
+            }
+          },
+          "kana": "きらう",
+          "kanji": "嫌う",
+          "meaning": "討厭"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "わらわれる",
+              "meaning": "被嘲笑",
+              "text": "笑われる"
+            }
+          },
+          "kana": "わらう",
+          "kanji": "笑う",
+          "meaning": "嘲笑"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "おこられる",
+              "meaning": "被罵",
+              "text": "怒られる"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "生氣／罵"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "おこられる",
+              "meaning": "被罵",
+              "text": "怒られる"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "生氣／罵"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[動詞A_ます形] ながら [動詞B] ことが [動詞C_受身形]。",
+    "translation": "一邊 [動詞A] 一邊 [動詞B] 被 [動詞C]。"
+  },
+  {
+    "components": {
+      "動詞A": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ふくをえらび",
+              "text": "服を選び"
+            }
+          },
+          "kana": "ふくをえらぶ",
+          "kanji": "服を選ぶ",
+          "meaning": "挑衣服"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんがくをきき",
+              "text": "音楽を聴き"
+            }
+          },
+          "kana": "おんがくをきく",
+          "kanji": "音楽を聴く",
+          "meaning": "聽音樂"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "パソコンをつかい",
+              "text": "パソコンを使い"
+            }
+          },
+          "kana": "パソコンをつかう",
+          "kanji": "パソコンを使う",
+          "meaning": "用電腦"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "しゅくだいをやり",
+              "text": "宿題をやり"
+            }
+          },
+          "kana": "しゅくだいをやる",
+          "kanji": "宿題をやる",
+          "meaning": "做作業"
+        }
+      ],
+      "動詞B": [
+        {
+          "kana": "もんくをいう",
+          "kanji": "文句を言う",
+          "meaning": "埋怨"
+        },
+        {
+          "kana": "おどる",
+          "kanji": "踊る",
+          "meaning": "跳舞"
+        },
+        {
+          "kana": "コーヒーをのむ",
+          "kanji": "コーヒーを飲む",
+          "meaning": "喝咖啡"
+        },
+        {
+          "kana": "まんがをよむ",
+          "kanji": "漫画を読む",
+          "meaning": "看漫畫"
+        }
+      ],
+      "動詞C": [
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "きらわれる",
+              "meaning": "被討厭",
+              "text": "嫌われる"
+            }
+          },
+          "kana": "きらう",
+          "kanji": "嫌う",
+          "meaning": "討厭"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "わらわれる",
+              "meaning": "被嘲笑",
+              "text": "笑われる"
+            }
+          },
+          "kana": "わらう",
+          "kanji": "笑う",
+          "meaning": "嘲笑"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "おこられる",
+              "meaning": "被老師罵",
+              "text": "怒られる"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "生氣／罵"
+        },
+        {
+          "conjugations": {
+            "受身形": {
+              "kana": "おこられる",
+              "meaning": "被父親罵",
+              "text": "怒られる"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "生氣／罵"
+        }
+      ],
+      "対象": [
+        {
+          "kana": "みせのひと",
+          "kanji": "店の人",
+          "meaning": "店家"
+        },
+        {
+          "kana": "みんな",
+          "kanji": "皆",
+          "meaning": "大家"
+        },
+        {
+          "kana": "せんせい",
+          "kanji": "先生",
+          "meaning": "老師"
+        },
+        {
+          "kana": "ちち",
+          "kanji": "父",
+          "meaning": "父親"
+        }
+      ]
+    },
+    "group": "Chapter 06",
+    "level": "N3",
+    "template": "[動詞A_ます形] ながら [動詞B] ことが、[対象] に [動詞C_受身形]。",
+    "translation": "一邊 [動詞A] 一邊 [動詞B]，被 [対象] [動詞C]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "ます形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "可能形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "意向形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "普通形": {
+              "kana": "おきる",
+              "text": "起きる"
+            }
+          },
+          "kana": "おきる",
+          "kanji": "起きる",
+          "meaning": "起床"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "ます形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "可能形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "意向形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "普通形": {
+              "kana": "わすれる",
+              "text": "忘れる"
+            }
+          },
+          "kana": "わすれる",
+          "kanji": "忘れる",
+          "meaning": "忘記"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "ます形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "可能形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "意向形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "普通形": {
+              "kana": "きる",
+              "text": "着る"
+            }
+          },
+          "kana": "きる",
+          "kanji": "着る",
+          "meaning": "穿"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "ます形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "可能形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "意向形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "普通形": {
+              "kana": "でる",
+              "text": "出る"
+            }
+          },
+          "kana": "でる",
+          "kanji": "出る",
+          "meaning": "出去"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "ます形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "可能形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "意向形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "普通形": {
+              "kana": "つかれる",
+              "text": "疲れる"
+            }
+          },
+          "kana": "つかれる",
+          "kanji": "疲れる",
+          "meaning": "疲累"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "ます形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "可能形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "意向形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "普通形": {
+              "kana": "やせる",
+              "text": "痩せる"
+            }
+          },
+          "kana": "やせる",
+          "kanji": "痩せる",
+          "meaning": "變瘦"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[動詞_ない形] ない、[動詞_ます形] たい、[動詞_普通形] ようだ、[動詞_可能形] れる、[動詞_意向形] よう",
+    "translation": "不 [動詞]、想 [動詞]、似乎 [動詞]、能 [動詞]、[動詞] 吧"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "おきれ",
+              "text": "起きれ"
+            },
+            "ます形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "意向形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "普通形": {
+              "kana": "おきる",
+              "text": "起きる"
+            },
+            "被動形": {
+              "kana": "おき",
+              "text": "起き"
+            }
+          },
+          "kana": "おきる",
+          "kanji": "起きる",
+          "meaning": "起床"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "わすれれ",
+              "text": "忘れれ"
+            },
+            "ます形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "意向形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "普通形": {
+              "kana": "わすれる",
+              "text": "忘れる"
+            },
+            "被動形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            }
+          },
+          "kana": "わすれる",
+          "kanji": "忘れる",
+          "meaning": "忘記"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "きれ",
+              "text": "着れ"
+            },
+            "ます形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "意向形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "普通形": {
+              "kana": "きる",
+              "text": "着る"
+            },
+            "被動形": {
+              "kana": "き",
+              "text": "着"
+            }
+          },
+          "kana": "きる",
+          "kanji": "着る",
+          "meaning": "穿"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "でれ",
+              "text": "出れ"
+            },
+            "ます形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "意向形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "普通形": {
+              "kana": "でる",
+              "text": "出る"
+            },
+            "被動形": {
+              "kana": "で",
+              "text": "出"
+            }
+          },
+          "kana": "でる",
+          "kanji": "出る",
+          "meaning": "出去"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "つかれれ",
+              "text": "疲れれ"
+            },
+            "ます形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "意向形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "普通形": {
+              "kana": "つかれる",
+              "text": "疲れる"
+            },
+            "被動形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            }
+          },
+          "kana": "つかれる",
+          "kanji": "疲れる",
+          "meaning": "疲累"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "やせれ",
+              "text": "痩せれ"
+            },
+            "ます形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "意向形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "普通形": {
+              "kana": "やせる",
+              "text": "痩せる"
+            },
+            "被動形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            }
+          },
+          "kana": "やせる",
+          "kanji": "痩せる",
+          "meaning": "變瘦"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[動詞_被動形] られる、[動詞_ます形] そうだ、[動詞_普通形] べきだ、[動詞_ば形] ば、[動詞_意向形] よう",
+    "translation": "能 [動詞]、像要 [動詞]、應該要 [動詞]、[動詞] 的話、[動詞] 吧"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "使役形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "命令形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "意向形": {
+              "kana": "おき",
+              "text": "起き"
+            },
+            "普通形": {
+              "kana": "おきる",
+              "text": "起きる"
+            }
+          },
+          "kana": "おきる",
+          "kanji": "起きる",
+          "meaning": "起床"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "使役形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "命令形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "意向形": {
+              "kana": "わすれ",
+              "text": "忘れ"
+            },
+            "普通形": {
+              "kana": "わすれる",
+              "text": "忘れる"
+            }
+          },
+          "kana": "わすれる",
+          "kanji": "忘れる",
+          "meaning": "忘記"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "使役形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "命令形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "意向形": {
+              "kana": "き",
+              "text": "着"
+            },
+            "普通形": {
+              "kana": "きる",
+              "text": "着る"
+            }
+          },
+          "kana": "きる",
+          "kanji": "着る",
+          "meaning": "穿"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "使役形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "命令形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "意向形": {
+              "kana": "で",
+              "text": "出"
+            },
+            "普通形": {
+              "kana": "でる",
+              "text": "出る"
+            }
+          },
+          "kana": "でる",
+          "kanji": "出る",
+          "meaning": "出去"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "使役形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "命令形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "意向形": {
+              "kana": "つかれ",
+              "text": "疲れ"
+            },
+            "普通形": {
+              "kana": "つかれる",
+              "text": "疲れる"
+            }
+          },
+          "kana": "つかれる",
+          "kanji": "疲れる",
+          "meaning": "疲累"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "使役形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "命令形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "意向形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            },
+            "普通形": {
+              "kana": "やせる",
+              "text": "痩せる"
+            }
+          },
+          "kana": "やせる",
+          "kanji": "痩せる",
+          "meaning": "變瘦"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[動詞_使役形] させる、[動詞_ます形] ながら、[動詞_普通形] こと、[動詞_命令形] ろ、[動詞_意向形] よう",
+    "translation": "讓他 [動詞]、一邊 [動詞]、[動詞] 這事、[動詞]！、[動詞] 吧"
+  },
+  {
+    "components": {
+      "終點": [
+        {
+          "kana": "えき",
+          "kanji": "駅",
+          "meaning": "車站"
+        },
+        {
+          "kana": "くじ",
+          "kanji": "九時",
+          "meaning": "九點"
+        },
+        {
+          "kana": "ひる",
+          "kanji": "昼",
+          "meaning": "中午"
+        },
+        {
+          "kana": "ゆうがた",
+          "kanji": "夕方",
+          "meaning": "傍晚"
+        }
+      ],
+      "起點": [
+        {
+          "kana": "いえ",
+          "kanji": "家",
+          "meaning": "家裏"
+        },
+        {
+          "kana": "ごじ",
+          "kanji": "五時",
+          "meaning": "五點"
+        },
+        {
+          "kana": "あさ",
+          "kanji": "朝",
+          "meaning": "早上"
+        },
+        {
+          "kana": "ごご",
+          "kanji": "午後",
+          "meaning": "下午"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[起點] から [終點] まで",
+    "translation": "從 [起點] 到 [終點]"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "じてんしゃでいけ",
+              "text": "自転車で行け"
+            }
+          },
+          "kana": "じてんしゃでいく",
+          "kanji": "自転車で行く",
+          "meaning": "騎腳踏車去"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "テレビをみれ",
+              "text": "テレビを見れ"
+            }
+          },
+          "kana": "テレビをみる",
+          "kanji": "テレビを見る",
+          "meaning": "看電視"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "ねれ",
+              "text": "寝れ"
+            }
+          },
+          "kana": "ねる",
+          "kanji": "寝る",
+          "meaning": "睡覺"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "プールでおよげ",
+              "text": "プールで泳げ"
+            }
+          },
+          "kana": "プールでおよぐ",
+          "kanji": "プールで泳ぐ",
+          "meaning": "在游泳池游泳"
+        }
+      ],
+      "終點": [
+        {
+          "kana": "えき",
+          "kanji": "駅",
+          "meaning": "車站"
+        },
+        {
+          "kana": "くじ",
+          "kanji": "九時",
+          "meaning": "九點"
+        },
+        {
+          "kana": "ひる",
+          "kanji": "昼",
+          "meaning": "中午"
+        },
+        {
+          "kana": "ゆうがた",
+          "kanji": "夕方",
+          "meaning": "傍晚"
+        }
+      ],
+      "起點": [
+        {
+          "kana": "いえ",
+          "kanji": "家",
+          "meaning": "家裏"
+        },
+        {
+          "kana": "ごじ",
+          "kanji": "五時",
+          "meaning": "五點"
+        },
+        {
+          "kana": "あさ",
+          "kanji": "朝",
+          "meaning": "早上"
+        },
+        {
+          "kana": "ごご",
+          "kanji": "午後",
+          "meaning": "下午"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[起點] から [終點] まで [動作_ば形] ば",
+    "translation": "從 [起點] 到 [終點] [動作] 的話"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "じてんしゃでいけ",
+              "text": "自転車で行け"
+            }
+          },
+          "kana": "じてんしゃでいく",
+          "kanji": "自転車で行く",
+          "meaning": "騎腳踏車去"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "テレビをみれ",
+              "text": "テレビを見れ"
+            }
+          },
+          "kana": "テレビをみる",
+          "kanji": "テレビを見る",
+          "meaning": "看電視"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "ねれ",
+              "text": "寝れ"
+            }
+          },
+          "kana": "ねる",
+          "kanji": "寝る",
+          "meaning": "睡覺"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "プールでおよげ",
+              "text": "プールで泳げ"
+            }
+          },
+          "kana": "プールでおよぐ",
+          "kanji": "プールで泳ぐ",
+          "meaning": "在游泳池游泳"
+        }
+      ],
+      "終點": [
+        {
+          "kana": "えき",
+          "kanji": "駅",
+          "meaning": "車站"
+        },
+        {
+          "kana": "くじ",
+          "kanji": "九時",
+          "meaning": "九點"
+        },
+        {
+          "kana": "ひる",
+          "kanji": "昼",
+          "meaning": "中午"
+        },
+        {
+          "kana": "ゆうがた",
+          "kanji": "夕方",
+          "meaning": "傍晚"
+        }
+      ],
+      "結果": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "やせ",
+              "text": "痩せ"
+            }
+          },
+          "kana": "やせる",
+          "kanji": "痩せる",
+          "meaning": "變瘦"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ははがおこり",
+              "text": "母が怒り"
+            }
+          },
+          "kana": "ははがおこる",
+          "kanji": "母が怒る",
+          "meaning": "媽媽生氣"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "なやみをわすれ",
+              "text": "悩みを忘れ"
+            }
+          },
+          "kana": "なやみをわすれる",
+          "kanji": "悩みを忘れる",
+          "meaning": "忘記煩惱"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうずになり",
+              "text": "上手になり"
+            }
+          },
+          "kana": "じょうずになる",
+          "kanji": "上手になる",
+          "meaning": "變厲害"
+        }
+      ],
+      "起點": [
+        {
+          "kana": "いえ",
+          "kanji": "家",
+          "meaning": "家裏"
+        },
+        {
+          "kana": "ごじ",
+          "kanji": "五時",
+          "meaning": "五點"
+        },
+        {
+          "kana": "あさ",
+          "kanji": "朝",
+          "meaning": "早上"
+        },
+        {
+          "kana": "ごご",
+          "kanji": "午後",
+          "meaning": "下午"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[起點] から [終點] まで [動作_ば形] ば、[結果_ます形] そうだ。",
+    "translation": "從 [起點] 到 [終點] [動作] 的話，像是會 [結果]"
+  },
+  {
+    "components": {
+      "理由": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ね",
+              "text": "寝"
+            }
+          },
+          "kana": "ねる",
+          "kanji": "寝る",
+          "meaning": "睡覺"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "あしたろくじにおき",
+              "text": "明日六時に起き"
+            }
+          },
+          "kana": "あしたろくじにおきる",
+          "kanji": "明日六時に起きる",
+          "meaning": "明天六點起床"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ドラマをみ",
+              "text": "ドラマを見"
+            }
+          },
+          "kana": "ドラマをみる",
+          "kanji": "ドラマを見る",
+          "meaning": "看電視劇"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きのうのことをわすれ",
+              "text": "昨日のことを忘れ"
+            }
+          },
+          "kana": "きのうのことをわすれる",
+          "kanji": "昨日のことを忘れる",
+          "meaning": "忘記昨天的事"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[理由_ます形] たい",
+    "translation": "想要 [理由]"
+  },
+  {
+    "components": {
+      "結果": [
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "いまはやしょくをたべ",
+              "text": "今は夜食を食べ"
+            }
+          },
+          "kana": "いまはやしょくをたべる",
+          "kanji": "今は夜食を食べる",
+          "meaning": "吃宵夜"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんばんはいえをで",
+              "text": "今晩は家を出"
+            }
+          },
+          "kana": "こんばんはいえをでる",
+          "kanji": "今晩は家を出る",
+          "meaning": "出門"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんやはよなかまでね",
+              "text": "今夜は夜中まで寝"
+            }
+          },
+          "kana": "こんやはよなかまでねる",
+          "kanji": "今夜は夜中まで寝る",
+          "meaning": "睡到半夜"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんしゅうはかのじょのメールをみ",
+              "text": "今週は彼女のメールを見"
+            }
+          },
+          "kana": "こんしゅうはかのじょのメールをみる",
+          "kanji": "今週は彼女のメールを見る",
+          "meaning": "看她的信"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[結果_ない形] ない。",
+    "translation": "不 [結果]。"
+  },
+  {
+    "components": {
+      "理由": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ね",
+              "text": "寝"
+            }
+          },
+          "kana": "ねる",
+          "kanji": "寝る",
+          "meaning": "睡覺"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "あしたろくじにおき",
+              "text": "明日六時に起き"
+            }
+          },
+          "kana": "あしたろくじにおきる",
+          "kanji": "明日六時に起きる",
+          "meaning": "明天六點起床"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "ドラマをみ",
+              "text": "ドラマを見"
+            }
+          },
+          "kana": "ドラマをみる",
+          "kanji": "ドラマを見る",
+          "meaning": "看電視劇"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きのうのことをわすれ",
+              "text": "昨日のことを忘れ"
+            }
+          },
+          "kana": "きのうのことをわすれる",
+          "kanji": "昨日のことを忘れる",
+          "meaning": "忘記昨天的事"
+        }
+      ],
+      "結果": [
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "いまはやしょくをたべ",
+              "text": "今は夜食を食べ"
+            }
+          },
+          "kana": "いまはやしょくをたべる",
+          "kanji": "今は夜食を食べる",
+          "meaning": "吃宵夜"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんばんはいえをで",
+              "text": "今晩は家を出"
+            }
+          },
+          "kana": "こんばんはいえをでる",
+          "kanji": "今晩は家を出る",
+          "meaning": "出門"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんやはよなかまでね",
+              "text": "今夜は夜中まで寝"
+            }
+          },
+          "kana": "こんやはよなかまでねる",
+          "kanji": "今夜は夜中まで寝る",
+          "meaning": "睡到半夜"
+        },
+        {
+          "conjugations": {
+            "ない形": {
+              "kana": "こんしゅうはかのじょのメールをみ",
+              "text": "今週は彼女のメールを見"
+            }
+          },
+          "kana": "こんしゅうはかのじょのメールをみる",
+          "kanji": "今週は彼女のメールを見る",
+          "meaning": "看她的信"
+        }
+      ]
+    },
+    "group": "Chapter 07",
+    "level": "N3",
+    "template": "[理由_ます形] たいから、[結果_ない形] ない。",
+    "translation": "由於想 [理由]，就不 [結果]。"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "レストランでしょくじをし",
+              "text": "レストランで食事をし"
+            }
+          },
+          "kana": "レストランでしょくじをする",
+          "kanji": "レストランで食事をする",
+          "meaning": "在餐廳用餐"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "いえでパーティーをし",
+              "text": "家でパーティーをし"
+            }
+          },
+          "kana": "いえでパーティーをする",
+          "kanji": "家でパーティーをする",
+          "meaning": "在家開派對"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんせんりょこうにいき",
+              "text": "温泉旅行に行き"
+            }
+          },
+          "kana": "おんせんりょこうにいく",
+          "kanji": "温泉旅行に行く",
+          "meaning": "去溫泉旅行"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きょうとへりゅうがくし",
+              "text": "京都へ留学し"
+            }
+          },
+          "kana": "きょうとへりゅうがくする",
+          "kanji": "京都へ留学する",
+          "meaning": "去京都留學"
+        }
+      ],
+      "時間": [
+        {
+          "kana": "つぎのにちようび",
+          "kanji": "次の日曜日",
+          "meaning": "下個星期日"
+        },
+        {
+          "kana": "らいしゅう",
+          "kanji": "来週",
+          "meaning": "下週"
+        },
+        {
+          "kana": "らいげつ",
+          "kanji": "来月",
+          "meaning": "下個月"
+        },
+        {
+          "kana": "らいねん",
+          "kanji": "来年",
+          "meaning": "明年"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "できれば [時間] は [動作_ます形] たい。",
+    "translation": "可能的話，[時間] 想要 [動作]。"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "レストランでしょくじをし",
+              "text": "レストランで食事をし"
+            }
+          },
+          "kana": "レストランでしょくじをする",
+          "kanji": "レストランで食事をする",
+          "meaning": "在餐廳用餐"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "いえでパーティーをし",
+              "text": "家でパーティーをし"
+            }
+          },
+          "kana": "いえでパーティーをする",
+          "kanji": "家でパーティーをする",
+          "meaning": "在家開派對"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんせんりょこうにいき",
+              "text": "温泉旅行に行き"
+            }
+          },
+          "kana": "おんせんりょこうにいく",
+          "kanji": "温泉旅行に行く",
+          "meaning": "去溫泉旅行"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "きょうとへりゅうがくし",
+              "text": "京都へ留学し"
+            }
+          },
+          "kana": "きょうとへりゅうがくする",
+          "kanji": "京都へ留学する",
+          "meaning": "去京都留學"
+        }
+      ],
+      "困難": [
+        {
+          "kana": "よやく",
+          "kanji": "予約",
+          "meaning": "預約"
+        },
+        {
+          "kana": "しょくじのようい",
+          "kanji": "食事の用意",
+          "meaning": "準備餐點"
+        },
+        {
+          "kana": "くるまをかりること",
+          "kanji": "車を借りること",
+          "meaning": "借到車"
+        },
+        {
+          "kana": "にほんご",
+          "kanji": "日本語",
+          "meaning": "講日文"
+        }
+      ],
+      "時間": [
+        {
+          "kana": "つぎのにちよう",
+          "kanji": "次の日曜",
+          "meaning": "下個星期日"
+        },
+        {
+          "kana": "らいしゅう",
+          "kanji": "来週",
+          "meaning": "下週"
+        },
+        {
+          "kana": "らいげつ",
+          "kanji": "来月",
+          "meaning": "下個月"
+        },
+        {
+          "kana": "らいねん",
+          "kanji": "来年",
+          "meaning": "明年"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "できれば [時間] は [動作_ます形] たいけど、[困難] ができない。",
+    "translation": "可能的話，[時間] 想要 [動作]，不過沒辦法 [困難]。"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "kana": "りょうり",
+          "kanji": "料理",
+          "meaning": "作菜"
+        },
+        {
+          "kana": "かいがいりょこう",
+          "kanji": "海外旅行",
+          "meaning": "出國旅行"
+        },
+        {
+          "kana": "べんきょう",
+          "kanji": "勉強",
+          "meaning": "讀書"
+        },
+        {
+          "kana": "デート",
+          "kanji": "デート",
+          "meaning": "約會"
+        }
+      ],
+      "名詞": [
+        {
+          "kana": "ひま",
+          "kanji": "暇",
+          "meaning": "空"
+        },
+        {
+          "kana": "おかね",
+          "kanji": "お金",
+          "meaning": "錢"
+        },
+        {
+          "kana": "じかん",
+          "kanji": "時間",
+          "meaning": "時間"
+        },
+        {
+          "kana": "たいりょく",
+          "kanji": "体力",
+          "meaning": "體力"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "[動作] をする [名詞] はない。",
+    "translation": "沒 [名詞] [動作]。"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "kana": "りょうり",
+          "kanji": "料理",
+          "meaning": "作菜"
+        },
+        {
+          "kana": "かいがいりょこう",
+          "kanji": "海外旅行",
+          "meaning": "出國旅行"
+        },
+        {
+          "kana": "べんきょう",
+          "kanji": "勉強",
+          "meaning": "讀書"
+        },
+        {
+          "kana": "デート",
+          "kanji": "デート",
+          "meaning": "約會"
+        }
+      ],
+      "名詞": [
+        {
+          "kana": "ひま",
+          "kanji": "暇",
+          "meaning": "空"
+        },
+        {
+          "kana": "おかね",
+          "kanji": "お金",
+          "meaning": "錢"
+        },
+        {
+          "kana": "じかん",
+          "kanji": "時間",
+          "meaning": "時間"
+        },
+        {
+          "kana": "たいりょく",
+          "kanji": "体力",
+          "meaning": "體力"
+        }
+      ],
+      "條件": [
+        {
+          "kana": "しごとを",
+          "kanji": "仕事を",
+          "meaning": "工作的話"
+        },
+        {
+          "kana": "とちにとうし",
+          "kanji": "土地に投資",
+          "meaning": "投資房地產"
+        },
+        {
+          "kana": "ピアノのれんしゅうを",
+          "kanji": "ピアノの練習を",
+          "meaning": "練習彈鋼琴"
+        },
+        {
+          "kana": "にくたいろうどうを",
+          "kanji": "肉体労働を",
+          "meaning": "從事體力勞動"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "[條件] すれば、[動作] をする [名詞] はない。",
+    "translation": "[條件]，就沒 [名詞] [動作]。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "アイスクリームをたべ",
+              "text": "アイスクリームを食べ"
+            }
+          },
+          "kana": "アイスクリームをたべる",
+          "kanji": "アイスクリームを食べる",
+          "meaning": "吃冰淇淋"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうだんをいい",
+              "text": "冗談を言い"
+            }
+          },
+          "kana": "じょうだんをいう",
+          "kanji": "冗談を言う",
+          "meaning": "開玩笑"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "テレビをみ",
+              "text": "テレビを見"
+            }
+          },
+          "kana": "テレビをみる",
+          "kanji": "テレビを見る",
+          "meaning": "看電視"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんがくをきき",
+              "text": "音楽を聴き"
+            }
+          },
+          "kana": "おんがくをきく",
+          "kanji": "音楽を聴く",
+          "meaning": "聽音樂"
+        }
+      ],
+      "動作2": [
+        {
+          "kana": "れんしゅう",
+          "kanji": "練習",
+          "meaning": "練習"
+        },
+        {
+          "kana": "ぎろん",
+          "kanji": "議論",
+          "meaning": "討論"
+        },
+        {
+          "kana": "べんきょう",
+          "kanji": "勉強",
+          "meaning": "讀書"
+        },
+        {
+          "kana": "しごと",
+          "kanji": "仕事",
+          "meaning": "工作"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "[動作1_ます形] ながら [動作2] をするのが好きだ。",
+    "translation": "喜歡一邊 [動作1] 一邊 [動作2]。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "アイスクリームをたべ",
+              "text": "アイスクリームを食べ"
+            }
+          },
+          "kana": "アイスクリームをたべる",
+          "kanji": "アイスクリームを食べる",
+          "meaning": "吃冰淇淋"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "じょうだんをいい",
+              "text": "冗談を言い"
+            }
+          },
+          "kana": "じょうだんをいう",
+          "kanji": "冗談を言う",
+          "meaning": "開玩笑"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "テレビをみ",
+              "text": "テレビを見"
+            }
+          },
+          "kana": "テレビをみる",
+          "kanji": "テレビを見る",
+          "meaning": "看電視"
+        },
+        {
+          "conjugations": {
+            "ます形": {
+              "kana": "おんがくをきき",
+              "text": "音楽を聴き"
+            }
+          },
+          "kana": "おんがくをきく",
+          "kanji": "音楽を聴く",
+          "meaning": "聽音樂"
+        }
+      ],
+      "動作2": [
+        {
+          "kana": "れんしゅう",
+          "kanji": "練習",
+          "meaning": "練習"
+        },
+        {
+          "kana": "ぎろん",
+          "kanji": "議論",
+          "meaning": "討論"
+        },
+        {
+          "kana": "べんきょう",
+          "kanji": "勉強",
+          "meaning": "讀書"
+        },
+        {
+          "kana": "しごと",
+          "kanji": "仕事",
+          "meaning": "工作"
+        }
+      ],
+      "對象": [
+        {
+          "kana": "コーチ",
+          "kanji": "コーチ",
+          "meaning": "教練"
+        },
+        {
+          "kana": "ともだち",
+          "kanji": "友達",
+          "meaning": "朋友"
+        },
+        {
+          "kana": "はは",
+          "kanji": "母",
+          "meaning": "媽媽"
+        },
+        {
+          "kana": "じょうし",
+          "kanji": "上司",
+          "meaning": "上司"
+        }
+      ],
+      "被動": [
+        {
+          "conjugations": {
+            "被動形": {
+              "kana": "おこら",
+              "text": "怒ら"
+            }
+          },
+          "kana": "おこる",
+          "kanji": "怒る",
+          "meaning": "發脾氣"
+        },
+        {
+          "conjugations": {
+            "被動形": {
+              "kana": "ごかいさ",
+              "text": "誤解さ"
+            }
+          },
+          "kana": "ごかいする",
+          "kanji": "誤解する",
+          "meaning": "誤會"
+        },
+        {
+          "conjugations": {
+            "被動形": {
+              "kana": "しから",
+              "text": "叱ら"
+            }
+          },
+          "kana": "しかる",
+          "kanji": "叱る",
+          "meaning": "罵"
+        },
+        {
+          "conjugations": {
+            "被動形": {
+              "kana": "ちゅういさ",
+              "text": "注意さ"
+            }
+          },
+          "kana": "ちゅういする",
+          "kanji": "注意する",
+          "meaning": "警告"
+        }
+      ]
+    },
+    "group": "Chapter 08",
+    "level": "N3",
+    "template": "[動作1_ます形] ながら [動作2] をするのが好きだが、よく [對象] に [被動_被動形] れる。",
+    "translation": "喜歡一邊 [動作1] 一邊 [動作2]，可是常常被 [對象] [被動]。"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "あるいた",
+              "text": "歩いた"
+            },
+            "て形": {
+              "kana": "あるいて",
+              "text": "歩いて"
+            }
+          },
+          "kana": "あるく",
+          "kanji": "歩く",
+          "meaning": "走路"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "はなした",
+              "text": "話した"
+            },
+            "て形": {
+              "kana": "はなして",
+              "text": "話して"
+            }
+          },
+          "kana": "はなす",
+          "kanji": "話す",
+          "meaning": "說話"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "まった",
+              "text": "待った"
+            },
+            "て形": {
+              "kana": "まって",
+              "text": "待って"
+            }
+          },
+          "kana": "まつ",
+          "kanji": "待つ",
+          "meaning": "等待"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "しんだ",
+              "text": "死んだ"
+            },
+            "て形": {
+              "kana": "しんで",
+              "text": "死んで"
+            }
+          },
+          "kana": "しぬ",
+          "kanji": "死ぬ",
+          "meaning": "死"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "えらんだ",
+              "text": "選んだ"
+            },
+            "て形": {
+              "kana": "えらんで",
+              "text": "選んで"
+            }
+          },
+          "kana": "えらぶ",
+          "kanji": "選ぶ",
+          "meaning": "選擇"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "やすんだ",
+              "text": "休んだ"
+            },
+            "て形": {
+              "kana": "やすんで",
+              "text": "休んで"
+            }
+          },
+          "kana": "やすむ",
+          "kanji": "休む",
+          "meaning": "休息"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "のった",
+              "text": "乗った"
+            },
+            "て形": {
+              "kana": "のって",
+              "text": "乗って"
+            }
+          },
+          "kana": "のる",
+          "kanji": "乗る",
+          "meaning": "搭乘"
+        }
+      ]
+    },
+    "group": "Chapter 09",
+    "level": "N3",
+    "template": "[動詞_た形]、[動詞_て形] いる",
+    "translation": "[動詞] 了、正在 [動詞]"
+  },
+  {
+    "components": {
+      "動詞": [
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "しょくじした",
+              "text": "食事した"
+            },
+            "て形": {
+              "kana": "しょくじして",
+              "text": "食事して"
+            }
+          },
+          "kana": "しょくじする",
+          "kanji": "食事する",
+          "meaning": "用餐"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "べんきょうした",
+              "text": "勉強した"
+            },
+            "て形": {
+              "kana": "べんきょうして",
+              "text": "勉強して"
+            }
+          },
+          "kana": "べんきょうする",
+          "kanji": "勉強する",
+          "meaning": "讀書"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "きんちょうした",
+              "text": "緊張した"
+            },
+            "て形": {
+              "kana": "きんちょうして",
+              "text": "緊張して"
+            }
+          },
+          "kana": "きんちょうする",
+          "kanji": "緊張する",
+          "meaning": "緊張"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "おきた",
+              "text": "起きた"
+            },
+            "て形": {
+              "kana": "おきて",
+              "text": "起きて"
+            }
+          },
+          "kana": "おきる",
+          "kanji": "起きる",
+          "meaning": "起床"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "ねた",
+              "text": "寝た"
+            },
+            "て形": {
+              "kana": "ねて",
+              "text": "寝て"
+            }
+          },
+          "kana": "ねる",
+          "kanji": "寝る",
+          "meaning": "睡覺"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "はじめた",
+              "text": "始めた"
+            },
+            "て形": {
+              "kana": "はじめて",
+              "text": "始めて"
+            }
+          },
+          "kana": "はじめる",
+          "kanji": "始める",
+          "meaning": "開始"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "わすれた",
+              "text": "忘れた"
+            },
+            "て形": {
+              "kana": "わすれて",
+              "text": "忘れて"
+            }
+          },
+          "kana": "わすれる",
+          "kanji": "忘れる",
+          "meaning": "忘記"
+        }
+      ]
+    },
+    "group": "Chapter 09",
+    "level": "N3",
+    "template": "[動詞_た形]、[動詞_て形] いる",
+    "translation": "[動詞] 了、正在 [動詞]"
+  },
+  {
+    "components": {
+      "動作": [
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "しごとをして",
+              "text": "仕事をして"
+            }
+          },
+          "kana": "しごとをする",
+          "kanji": "仕事をする",
+          "meaning": "工作"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "きて",
+              "text": "来て"
+            }
+          },
+          "kana": "くる",
+          "kanji": "来る",
+          "meaning": "來"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "きいて",
+              "text": "聞いて"
+            }
+          },
+          "kana": "きく",
+          "kanji": "聞く",
+          "meaning": "問"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "しつもんをして",
+              "text": "質問をして"
+            }
+          },
+          "kana": "しつもんをする",
+          "kanji": "質問をする",
+          "meaning": "詢問"
+        }
+      ]
+    },
+    "group": "Chapter 09",
+    "level": "N3",
+    "template": "また [動作_て形] いる。",
+    "translation": "又在 [動作]。"
+  },
+  {
+    "components": {
+      "事件": [
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "きのうじゅういちじまではたらい",
+              "text": "昨日11時まで働い"
+            }
+          },
+          "kana": "きのうじゅういちじまではたらく",
+          "kanji": "昨日11時まで働く",
+          "meaning": "昨天工作到11點"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "せんしゅうさんかいもき",
+              "text": "先週三回も来"
+            }
+          },
+          "kana": "せんしゅうさんかいもくる",
+          "kanji": "先週三回も来る",
+          "meaning": "上個禮拜來了三次"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "このあいだでんわでおしえ",
+              "text": "この間電話で教え"
+            }
+          },
+          "kana": "このあいだでんわでおしえる",
+          "kanji": "この間電話で教える",
+          "meaning": "前不久在電話裏講過"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "いっかげつまえメールでせつめいし",
+              "text": "一ヶ月前メールで説明し"
+            }
+          },
+          "kana": "いっかげつまえメールでせつめいする",
+          "kanji": "一ヶ月前メールで説明する",
+          "meaning": "一個月前用電子郵件說明了"
+        }
+      ]
+    },
+    "group": "Chapter 09",
+    "level": "N3",
+    "template": "[事件_た形] た。",
+    "translation": "[事件]。"
+  },
+  {
+    "components": {
+      "事件": [
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "きのうじゅういちじまではたらい",
+              "text": "昨日11時まで働い"
+            }
+          },
+          "kana": "きのうじゅういちじまではたらく",
+          "kanji": "昨日11時まで働く",
+          "meaning": "昨天工作到11點"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "せんしゅうさんかいもき",
+              "text": "先週三回も来"
+            }
+          },
+          "kana": "せんしゅうさんかいもくる",
+          "kanji": "先週三回も来る",
+          "meaning": "上個禮拜來了三次"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "このあいだでんわでおしえ",
+              "text": "この間電話で教え"
+            }
+          },
+          "kana": "このあいだでんわでおしえる",
+          "kanji": "この間電話で教える",
+          "meaning": "前不久在電話裏講過"
+        },
+        {
+          "conjugations": {
+            "た形": {
+              "kana": "いっかげつまえメールでせつめいし",
+              "text": "一ヶ月前メールで説明し"
+            }
+          },
+          "kana": "いっかげつまえメールでせつめいする",
+          "kanji": "一ヶ月前メールで説明する",
+          "meaning": "一個月前用電子郵件說明了"
+        }
+      ],
+      "動作": [
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "しごとをして",
+              "text": "仕事をして"
+            }
+          },
+          "kana": "しごとをする",
+          "kanji": "仕事をする",
+          "meaning": "工作"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "きて",
+              "text": "来て"
+            }
+          },
+          "kana": "くる",
+          "kanji": "来る",
+          "meaning": "來"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "きいて",
+              "text": "聞いて"
+            }
+          },
+          "kana": "きく",
+          "kanji": "聞く",
+          "meaning": "問"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "しつもんをして",
+              "text": "質問をして"
+            }
+          },
+          "kana": "しつもんをする",
+          "kanji": "質問をする",
+          "meaning": "詢問"
+        }
+      ]
+    },
+    "group": "Chapter 09",
+    "level": "N3",
+    "template": "[事件_た形] たのに、また [動作_て形] いる。",
+    "translation": "[事件]，現在居然又在 [動作]。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "いったり",
+              "text": "行ったり"
+            }
+          },
+          "kana": "いく",
+          "kanji": "行く",
+          "meaning": "走去"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "ほんをよんだり",
+              "text": "本を読んだり"
+            }
+          },
+          "kana": "ほんをよむ",
+          "kanji": "本を読む",
+          "meaning": "讀書"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "おかしをたべたり",
+              "text": "お菓子を食べたり"
+            }
+          },
+          "kana": "おかしをたべる",
+          "kanji": "お菓子を食べる",
+          "meaning": "吃點心"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "じゅぎょうにでたり",
+              "text": "授業に出たり"
+            }
+          },
+          "kana": "じゅぎょうにでる",
+          "kanji": "授業に出る",
+          "meaning": "上課"
+        }
+      ],
+      "動作2": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "きたり",
+              "text": "来たり"
+            }
+          },
+          "kana": "くる",
+          "kanji": "来る",
+          "meaning": "走來"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "そうじをしたり",
+              "text": "掃除をしたり"
+            }
+          },
+          "kana": "そうじをする",
+          "kanji": "掃除をする",
+          "meaning": "掃地"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "こうちゃをのんだり",
+              "text": "紅茶を飲んだり"
+            }
+          },
+          "kana": "こうちゃをのむ",
+          "kanji": "紅茶を飲む",
+          "meaning": "喝紅茶"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "ともだちとあそんだり",
+              "text": "友達と遊んだり"
+            }
+          },
+          "kana": "ともだちとあそぶ",
+          "kanji": "友達と遊ぶ",
+          "meaning": "和朋友玩"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[動作1_たり形] [動作2_たり形] する。",
+    "translation": "[動作1]、[動作2]。"
+  },
+  {
+    "components": {
+      "前提": [
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "すごくきんちょうして",
+              "text": "凄く緊張して"
+            }
+          },
+          "kana": "すごくきんちょうする",
+          "kanji": "凄く緊張する",
+          "meaning": "非常緊張"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "あさからばんまでへやにいて",
+              "text": "朝から晩まで部屋にいて"
+            }
+          },
+          "kana": "あさからばんまでへやにいる",
+          "kanji": "朝から晩まで部屋にいる",
+          "meaning": "從早到晚待在房間裏"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "むかしのゆうじんがきて",
+              "text": "昔の友人が来て"
+            }
+          },
+          "kana": "むかしのゆうじんがくる",
+          "kanji": "昔の友人が来る",
+          "meaning": "昔日友人來訪"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "がっこうへいって",
+              "text": "学校へ行って"
+            }
+          },
+          "kana": "がっこうへいく",
+          "kanji": "学校へ行く",
+          "meaning": "去學校"
+        }
+      ],
+      "動作1": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "いったり",
+              "text": "行ったり"
+            }
+          },
+          "kana": "いく",
+          "kanji": "行く",
+          "meaning": "走去"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "ほんをよんだり",
+              "text": "本を読んだり"
+            }
+          },
+          "kana": "ほんをよむ",
+          "kanji": "本を読む",
+          "meaning": "讀書"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "おかしをたべたり",
+              "text": "お菓子を食べたり"
+            }
+          },
+          "kana": "おかしをたべる",
+          "kanji": "お菓子を食べる",
+          "meaning": "吃點心"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "じゅぎょうにでたり",
+              "text": "授業に出たり"
+            }
+          },
+          "kana": "じゅぎょうにでる",
+          "kanji": "授業に出る",
+          "meaning": "上課"
+        }
+      ],
+      "動作2": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "きたり",
+              "text": "来たり"
+            }
+          },
+          "kana": "くる",
+          "kanji": "来る",
+          "meaning": "走來"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "そうじをしたり",
+              "text": "掃除をしたり"
+            }
+          },
+          "kana": "そうじをする",
+          "kanji": "掃除をする",
+          "meaning": "掃地"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "こうちゃをのんだり",
+              "text": "紅茶を飲んだり"
+            }
+          },
+          "kana": "こうちゃをのむ",
+          "kanji": "紅茶を飲む",
+          "meaning": "喝紅茶"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "ともだちとあそんだり",
+              "text": "友達と遊んだり"
+            }
+          },
+          "kana": "ともだちとあそぶ",
+          "kanji": "友達と遊ぶ",
+          "meaning": "和朋友玩"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[前提_て形]、[動作1_たり形] [動作2_たり形] する。",
+    "translation": "[前提]，[動作1]、[動作2]。"
+  },
+  {
+    "components": {
+      "前半": [
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "ジュースをかって",
+              "text": "ジュースを買って"
+            }
+          },
+          "kana": "ジュースをかう",
+          "kanji": "ジュースを買う",
+          "meaning": "買果汁"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "こうべにひっこしして",
+              "text": "神戸に引っ越しして"
+            }
+          },
+          "kana": "こうべにひっこしする",
+          "kanji": "神戸に引っ越しする",
+          "meaning": "搬到神戶"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "すぐあさごはんをたべて",
+              "text": "すぐ朝ご飯を食べて"
+            }
+          },
+          "kana": "すぐあさごはんをたべる",
+          "kanji": "すぐ朝ご飯を食べる",
+          "meaning": "馬上吃早餐"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "うちにきて",
+              "text": "うちに来て"
+            }
+          },
+          "kana": "うちにくる",
+          "kanji": "うちに来る",
+          "meaning": "來我家"
+        }
+      ],
+      "後半": [
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "のも",
+              "text": "飲も"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "かれのことをわすれよ",
+              "text": "彼のことを忘れよ"
+            }
+          },
+          "kana": "かれのことをわすれる",
+          "kanji": "彼のことを忘れる",
+          "meaning": "忘掉他"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "でかけよ",
+              "text": "出掛けよ"
+            }
+          },
+          "kana": "でかける",
+          "kanji": "出掛ける",
+          "meaning": "出門"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "いっしょにしけんのじゅんびをしよ",
+              "text": "一緒に試験の準備をしよ"
+            }
+          },
+          "kana": "いっしょにしけんのじゅんびをする",
+          "kanji": "一緒に試験の準備をする",
+          "meaning": "一起準備考試"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[前半_て形] [後半_意向形] う。",
+    "translation": "[前半] [後半] 吧。"
+  },
+  {
+    "components": {
+      "前半": [
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "ジュースをかって",
+              "text": "ジュースを買って"
+            }
+          },
+          "kana": "ジュースをかう",
+          "kanji": "ジュースを買う",
+          "meaning": "買果汁"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "こうべにひっこしして",
+              "text": "神戸に引っ越しして"
+            }
+          },
+          "kana": "こうべにひっこしする",
+          "kanji": "神戸に引っ越しする",
+          "meaning": "搬到神戶"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "すぐあさごはんをたべて",
+              "text": "すぐ朝ご飯を食べて"
+            }
+          },
+          "kana": "すぐあさごはんをたべる",
+          "kanji": "すぐ朝ご飯を食べる",
+          "meaning": "馬上吃早餐"
+        },
+        {
+          "conjugations": {
+            "て形": {
+              "kana": "うちにきて",
+              "text": "うちに来て"
+            }
+          },
+          "kana": "うちにくる",
+          "kanji": "うちに来る",
+          "meaning": "來我家"
+        }
+      ],
+      "後半": [
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "のも",
+              "text": "飲も"
+            }
+          },
+          "kana": "のむ",
+          "kanji": "飲む",
+          "meaning": "喝"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "かれのことをわすれよ",
+              "text": "彼のことを忘れよ"
+            }
+          },
+          "kana": "かれのことをわすれる",
+          "kanji": "彼のことを忘れる",
+          "meaning": "忘掉他"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "でかけよ",
+              "text": "出掛けよ"
+            }
+          },
+          "kana": "でかける",
+          "kanji": "出掛ける",
+          "meaning": "出門"
+        },
+        {
+          "conjugations": {
+            "意向形": {
+              "kana": "いっしょにしけんのじゅんびをしよ",
+              "text": "一緒に試験の準備をしよ"
+            }
+          },
+          "kana": "いっしょにしけんのじゅんびをする",
+          "kanji": "一緒に試験の準備をする",
+          "meaning": "一起準備考試"
+        }
+      ],
+      "條件": [
+        {
+          "conjugations": {
+            "たら形": {
+              "kana": "のどがかわいたら",
+              "text": "喉が渇いたら"
+            }
+          },
+          "kana": "のどがかわく",
+          "kanji": "喉が渇く",
+          "meaning": "口渴"
+        },
+        {
+          "conjugations": {
+            "たら形": {
+              "kana": "そつぎょうしたら",
+              "text": "卒業したら"
+            }
+          },
+          "kana": "そつぎょうする",
+          "kanji": "卒業する",
+          "meaning": "畢業之後"
+        },
+        {
+          "conjugations": {
+            "たら形": {
+              "kana": "あさおきたら",
+              "text": "朝起きたら"
+            }
+          },
+          "kana": "あさおきる",
+          "kanji": "朝起きる",
+          "meaning": "早上起床之後"
+        },
+        {
+          "conjugations": {
+            "たら形": {
+              "kana": "ろくじになったら",
+              "text": "六時になったら"
+            }
+          },
+          "kana": "ろくじになる",
+          "kanji": "六時になる",
+          "meaning": "到六點之後"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[條件_たら形]、[前半_て形] [後半_意向形] う。",
+    "translation": "[條件]，就 [前半] [後半] 吧。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "じぶんでしらべたり",
+              "text": "自分で調べたり"
+            }
+          },
+          "kana": "じぶんでしらべる",
+          "kanji": "自分で調べる",
+          "meaning": "自己查資料"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "かいにいったり",
+              "text": "買いに行ったり"
+            }
+          },
+          "kana": "かいにいく",
+          "kanji": "買いに行く",
+          "meaning": "出門買東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "きっぷをかったり",
+              "text": "切符を買ったり"
+            }
+          },
+          "kana": "きっぷをかう",
+          "kanji": "切符を買う",
+          "meaning": "買車票"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "あめがふったり",
+              "text": "雨が降ったり"
+            }
+          },
+          "kana": "あめがふる",
+          "kanji": "雨が降る",
+          "meaning": "下雨"
+        }
+      ],
+      "動作2": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "なやんだり",
+              "text": "悩んだり"
+            }
+          },
+          "kana": "なやむ",
+          "kanji": "悩む",
+          "meaning": "傷腦筋"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "にもつをはこんだり",
+              "text": "荷物を運んだり"
+            }
+          },
+          "kana": "にもつをはこぶ",
+          "kanji": "荷物を運ぶ",
+          "meaning": "搬東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "のりかえたり",
+              "text": "乗り換えたり"
+            }
+          },
+          "kana": "のりかえる",
+          "kanji": "乗り換える",
+          "meaning": "轉車"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "みちがこんだり",
+              "text": "道が込んだり"
+            }
+          },
+          "kana": "みちがこむ",
+          "kanji": "道が込む",
+          "meaning": "塞車"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[動作1_たり形] [動作2_たり形] する。",
+    "translation": "[動作1]、[動作2]。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "じぶんでしらべたり",
+              "text": "自分で調べたり"
+            }
+          },
+          "kana": "じぶんでしらべる",
+          "kanji": "自分で調べる",
+          "meaning": "自己查資料"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "かいにいったり",
+              "text": "買いに行ったり"
+            }
+          },
+          "kana": "かいにいく",
+          "kanji": "買いに行く",
+          "meaning": "出門買東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "きっぷをかったり",
+              "text": "切符を買ったり"
+            }
+          },
+          "kana": "きっぷをかう",
+          "kanji": "切符を買う",
+          "meaning": "買車票"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "あめがふったり",
+              "text": "雨が降ったり"
+            }
+          },
+          "kana": "あめがふる",
+          "kanji": "雨が降る",
+          "meaning": "下雨"
+        }
+      ],
+      "動作2": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "なやんだり",
+              "text": "悩んだり"
+            }
+          },
+          "kana": "なやむ",
+          "kanji": "悩む",
+          "meaning": "傷腦筋"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "にもつをはこんだり",
+              "text": "荷物を運んだり"
+            }
+          },
+          "kana": "にもつをはこぶ",
+          "kanji": "荷物を運ぶ",
+          "meaning": "搬東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "のりかえたり",
+              "text": "乗り換えたり"
+            }
+          },
+          "kana": "のりかえる",
+          "kanji": "乗り換える",
+          "meaning": "轉車"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "みちがこんだり",
+              "text": "道が込んだり"
+            }
+          },
+          "kana": "みちがこむ",
+          "kanji": "道が込む",
+          "meaning": "塞車"
+        }
+      ],
+      "名詞": [
+        {
+          "kana": "ひつよう",
+          "kanji": "必要",
+          "meaning": "需要"
+        },
+        {
+          "kana": "てま",
+          "kanji": "手間",
+          "meaning": "麻煩"
+        },
+        {
+          "kana": "てま",
+          "kanji": "手間",
+          "meaning": "麻煩"
+        },
+        {
+          "kana": "おそれ",
+          "kanji": "恐れ",
+          "meaning": "擔心"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[動作1_たり形] [動作2_たり形] する [名詞] がない。",
+    "translation": "沒有 [動作1]、[動作2] 的 [名詞]。"
+  },
+  {
+    "components": {
+      "動作1": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "じぶんでしらべたり",
+              "text": "自分で調べたり"
+            }
+          },
+          "kana": "じぶんでしらべる",
+          "kanji": "自分で調べる",
+          "meaning": "自己查資料"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "かいにいったり",
+              "text": "買いに行ったり"
+            }
+          },
+          "kana": "かいにいく",
+          "kanji": "買いに行く",
+          "meaning": "出門買東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "きっぷをかったり",
+              "text": "切符を買ったり"
+            }
+          },
+          "kana": "きっぷをかう",
+          "kanji": "切符を買う",
+          "meaning": "買車票"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "あめがふったり",
+              "text": "雨が降ったり"
+            }
+          },
+          "kana": "あめがふる",
+          "kanji": "雨が降る",
+          "meaning": "下雨"
+        }
+      ],
+      "動作2": [
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "なやんだり",
+              "text": "悩んだり"
+            }
+          },
+          "kana": "なやむ",
+          "kanji": "悩む",
+          "meaning": "傷腦筋"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "にもつをはこんだり",
+              "text": "荷物を運んだり"
+            }
+          },
+          "kana": "にもつをはこぶ",
+          "kanji": "荷物を運ぶ",
+          "meaning": "搬東西"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "のりかえたり",
+              "text": "乗り換えたり"
+            }
+          },
+          "kana": "のりかえる",
+          "kanji": "乗り換える",
+          "meaning": "轉車"
+        },
+        {
+          "conjugations": {
+            "たり形": {
+              "kana": "みちがこんだり",
+              "text": "道が込んだり"
+            }
+          },
+          "kana": "みちがこむ",
+          "kanji": "道が込む",
+          "meaning": "塞車"
+        }
+      ],
+      "名詞": [
+        {
+          "kana": "ひつよう",
+          "kanji": "必要",
+          "meaning": "需要"
+        },
+        {
+          "kana": "てま",
+          "kanji": "手間",
+          "meaning": "麻煩"
+        },
+        {
+          "kana": "てま",
+          "kanji": "手間",
+          "meaning": "麻煩"
+        },
+        {
+          "kana": "おそれ",
+          "kanji": "恐れ",
+          "meaning": "擔心"
+        }
+      ],
+      "條件": [
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "せんもんのひとにたのめ",
+              "text": "専門の人に頼め"
+            }
+          },
+          "kana": "せんもんのひとにたのむ",
+          "kanji": "専門の人に頼む",
+          "meaning": "委託專業人士"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "ネットでこうにゅうすれ",
+              "text": "ネットで購入すれ"
+            }
+          },
+          "kana": "ネットでこうにゅうする",
+          "kanji": "ネットで購入する",
+          "meaning": "網路上買"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "くるまでくれ",
+              "text": "車で来れ"
+            }
+          },
+          "kana": "くるまでくる",
+          "kanji": "車で来る",
+          "meaning": "開車來"
+        },
+        {
+          "conjugations": {
+            "ば形": {
+              "kana": "でんしゃでいけ",
+              "text": "電車で行け"
+            }
+          },
+          "kana": "でんしゃでいく",
+          "kanji": "電車で行く",
+          "meaning": "坐電車去"
+        }
+      ]
+    },
+    "group": "Chapter 10",
+    "level": "N3",
+    "template": "[條件_ば形] ば、[動作1_たり形] [動作2_たり形] する [名詞] がない。",
+    "translation": "[條件] 的話，就沒有 [動作1]、[動作2] 的 [名詞]。"
+  }
+]

@@ -4,369 +4,8 @@ const {
   useRef
 } = React;
 
-// --- 預設內建教材題庫 ---
-const DEFAULT_PATTERNS = [{
-  id: "p_default_001",
-  group: "Chapter 03",
-  level: "N3",
-  template: "あまり [動詞_ない形]。",
-  translation: "不太 [動詞]。",
-  components: {
-    "動詞": [{
-      "kanji": "泳ぐ",
-      "kana": "およぐ",
-      "meaning": "游泳",
-      "conjugations": {
-        "ない形": {
-          "text": "泳がない",
-          "kana": "およがない"
-        },
-        "意向形": {
-          "text": "泳ごう",
-          "kana": "およごう"
-        }
-      }
-    }, {
-      "kanji": "遊ぶ",
-      "kana": "あそぶ",
-      "meaning": "玩樂",
-      "conjugations": {
-        "ない形": {
-          "text": "遊ばない",
-          "kana": "あそばない"
-        },
-        "意向形": {
-          "text": "遊ぼう",
-          "kana": "あそぼう"
-        }
-      }
-    }, {
-      "kanji": "走る",
-      "kana": "はしる",
-      "meaning": "跑步",
-      "conjugations": {
-        "ない形": {
-          "text": "走らない",
-          "kana": "はしらない"
-        },
-        "意向形": {
-          "text": "走ろう",
-          "kana": "はしろう"
-        }
-      }
-    }, {
-      "kanji": "絵本を読む",
-      "kana": "えほんをよむ",
-      "meaning": "讀繪本",
-      "conjugations": {
-        "ない形": {
-          "text": "絵本を読まない",
-          "kana": "えほんをよまない"
-        },
-        "意向形": {
-          "text": "絵本を読もう",
-          "kana": "えほんをよもう"
-        }
-      }
-    }]
-  }
-}, {
-  id: "p_default_002",
-  group: "Chapter 03",
-  level: "N3",
-  template: "あまり [對象] と [動詞_ない形]。",
-  translation: "不太跟 [對象] 一起 [動詞]。",
-  components: {
-    "對象": [{
-      "kanji": "彼ら",
-      "kana": "かれら",
-      "meaning": "他們"
-    }, {
-      "kanji": "彼女",
-      "kana": "かのじょ",
-      "meaning": "她"
-    }, {
-      "kanji": "彼女たち",
-      "kana": "かのじょたち",
-      "meaning": "她們"
-    }, {
-      "kanji": "子供たち",
-      "kana": "こどもたち",
-      "meaning": "孩子們"
-    }],
-    "動詞": [{
-      "kanji": "泳ぐ",
-      "kana": "およぐ",
-      "meaning": "游泳",
-      "conjugations": {
-        "ない形": {
-          "text": "泳がない",
-          "kana": "およがない"
-        },
-        "意向形": {
-          "text": "泳ごう",
-          "kana": "およごう"
-        }
-      }
-    }, {
-      "kanji": "遊ぶ",
-      "kana": "あそぶ",
-      "meaning": "玩樂",
-      "conjugations": {
-        "ない形": {
-          "text": "遊ばない",
-          "kana": "あそばない"
-        },
-        "意向形": {
-          "text": "遊ぼう",
-          "kana": "あそぼう"
-        }
-      }
-    }, {
-      "kanji": "走る",
-      "kana": "はしる",
-      "meaning": "跑步",
-      "conjugations": {
-        "ない形": {
-          "text": "走らない",
-          "kana": "はしらない"
-        },
-        "意向形": {
-          "text": "走ろう",
-          "kana": "はしろう"
-        }
-      }
-    }, {
-      "kanji": "絵本を読む",
-      "kana": "えほんをよむ",
-      "meaning": "讀繪本",
-      "conjugations": {
-        "ない形": {
-          "text": "絵本を読まない",
-          "kana": "えほんをよまない"
-        },
-        "意向形": {
-          "text": "絵本を読もう",
-          "kana": "えほんをよもう"
-        }
-      }
-    }]
-  }
-}, {
-  id: "p_default_003",
-  group: "Chapter 03",
-  level: "N3",
-  template: "[時間] は、あまり [對象] と [動詞_ない形]。",
-  translation: "[時間] 不太跟 [對象] 一起 [動詞]。",
-  components: {
-    "時間": [{
-      "kanji": "最近",
-      "kana": "さいきん",
-      "meaning": "最近"
-    }, {
-      "kanji": "今週",
-      "kana": "こんしゅう",
-      "meaning": "這禮拜"
-    }, {
-      "kanji": "今月",
-      "kana": "こんげつ",
-      "meaning": "這個月"
-    }, {
-      "kanji": "今年",
-      "kana": "ことし",
-      "meaning": "今年"
-    }],
-    "對象": [{
-      "kanji": "彼ら",
-      "kana": "かれら",
-      "meaning": "他們"
-    }, {
-      "kanji": "彼女",
-      "kana": "かのじょ",
-      "meaning": "她"
-    }, {
-      "kanji": "彼女たち",
-      "kana": "かのじょたち",
-      "meaning": "她們"
-    }, {
-      "kanji": "子供と絵本",
-      "kana": "こどもとえほん",
-      "meaning": "孩子與繪本"
-    }],
-    "動詞": [{
-      "kanji": "泳ぐ",
-      "kana": "およぐ",
-      "meaning": "游泳",
-      "conjugations": {
-        "ない形": {
-          "text": "泳がない",
-          "kana": "およがない"
-        },
-        "意向形": {
-          "text": "泳ごう",
-          "kana": "およごう"
-        }
-      }
-    }, {
-      "kanji": "遊ぶ",
-      "kana": "あそぶ",
-      "meaning": "玩樂",
-      "conjugations": {
-        "ない形": {
-          "text": "遊ばない",
-          "kana": "あそばない"
-        },
-        "意向形": {
-          "text": "遊ぼう",
-          "kana": "あそぼう"
-        }
-      }
-    }, {
-      "kanji": "走る",
-      "kana": "はしる",
-      "meaning": "跑步",
-      "conjugations": {
-        "ない形": {
-          "text": "走らない",
-          "kana": "はしらない"
-        },
-        "意向形": {
-          "text": "走ろう",
-          "kana": "はしろう"
-        }
-      }
-    }, {
-      "kanji": "読む",
-      "kana": "よむ",
-      "meaning": "讀",
-      "conjugations": {
-        "ない形": {
-          "text": "読まない",
-          "kana": "よまない"
-        },
-        "意向形": {
-          "text": "読もう",
-          "kana": "よもう"
-        }
-      }
-    }]
-  }
-}, {
-  id: "p_default_004",
-  group: "Chapter 03",
-  level: "N3",
-  template: "[時間] は、[對象] と 一緒に [動詞_意向形]。",
-  translation: "[時間] 跟 [對象] 一起 [動詞] 吧。",
-  components: {
-    "時間": [{
-      "kanji": "次",
-      "kana": "つぎ",
-      "meaning": "下次"
-    }, {
-      "kanji": "来週",
-      "kana": "らいしゅう",
-      "meaning": "下禮拜"
-    }, {
-      "kanji": "来月",
-      "kana": "らいげつ",
-      "meaning": "下個月"
-    }, {
-      "kanji": "来年",
-      "kana": "らいねん",
-      "meaning": "明年"
-    }],
-    "對象": [{
-      "kanji": "私たち",
-      "kana": "わたしたち",
-      "meaning": "我們"
-    }, {
-      "kanji": "僕ら",
-      "kana": "ぼくら",
-      "meaning": "我們(男稱)"
-    }, {
-      "kanji": "子供たち",
-      "kana": "こどもたち",
-      "meaning": "孩子們"
-    }],
-    "動詞": [{
-      "kanji": "泳ぐ",
-      "kana": "およぐ",
-      "meaning": "游泳",
-      "conjugations": {
-        "ない形": {
-          "text": "泳がない",
-          "kana": "およがない"
-        },
-        "意向形": {
-          "text": "泳ごう",
-          "kana": "およごう"
-        }
-      }
-    }, {
-      "kanji": "遊ぶ",
-      "kana": "あそぶ",
-      "meaning": "玩樂",
-      "conjugations": {
-        "ない形": {
-          "text": "遊ばない",
-          "kana": "あそばない"
-        },
-        "意向形": {
-          "text": "遊ぼう",
-          "kana": "あそぼう"
-        }
-      }
-    }, {
-      "kanji": "走る",
-      "kana": "はしる",
-      "meaning": "跑步",
-      "conjugations": {
-        "ない形": {
-          "text": "走らない",
-          "kana": "はしらない"
-        },
-        "意向形": {
-          "text": "走ろう",
-          "kana": "はしろう"
-        }
-      }
-    }]
-  }
-}, {
-  id: "p_default_005",
-  group: "Chapter 04",
-  level: "N3",
-  template: "[事物] が [形容詞] そうですね。",
-  translation: "[事物] 看起來很 [形容詞] 呢。",
-  components: {
-    "事物": [{
-      "kanji": "このリンゴ",
-      "kana": "このりんご",
-      "meaning": "這顆蘋果"
-    }, {
-      "kanji": "彼女の料理",
-      "kana": "かのじょのりょうり",
-      "meaning": "她的料理"
-    }, {
-      "kanji": "あの映画",
-      "kana": "あのえいが",
-      "meaning": "那部電影"
-    }],
-    "形容詞": [{
-      "kanji": "美味しい",
-      "kana": "おいしい",
-      "meaning": "好吃"
-    }, {
-      "kanji": "面白い",
-      "kana": "おもしろい",
-      "meaning": "有趣"
-    }, {
-      "kanji": "楽しい",
-      "kana": "たのしい",
-      "meaning": "開心"
-    }]
-  }
-}];
+// --- 教材資料檔路徑（放置於專案根目錄 data/patterns.json） ---
+const PATTERNS_JSON_URL = 'data/patterns.json';
 
 // --- 本地儲存（取代 chrome.storage.local，同步 API + callback 介面以維持相容） ---
 const loadStorage = (keys, callback) => {
@@ -386,7 +25,8 @@ const saveStorage = obj => {
 };
 function App() {
   // --- 狀態 ---
-  const [patterns, setPatterns] = useState(DEFAULT_PATTERNS);
+  const [patterns, setPatterns] = useState([]);
+  const [patternsLoadError, setPatternsLoadError] = useState(null);
   const [selectedGroup, setSelectedGroup] = useState(null);
   const [selectedPattern, setSelectedPattern] = useState(null);
   const [editingPattern, setEditingPattern] = useState(null);
@@ -457,11 +97,29 @@ function App() {
     isPlayingRef.current = isPlaying;
   }, [isPlaying]);
 
-  // --- 本地儲存初始載入 ---
+  // --- 教材資料載入：優先讀本機儲存（使用者曾編輯過），否則讀 data/patterns.json ---
   useEffect(() => {
     loadStorage(['patterns', 'progress'], result => {
-      if (result.patterns && result.patterns.length > 0) setPatterns(result.patterns);
       if (result.progress) setUserProgress(result.progress);
+      if (result.patterns && result.patterns.length > 0) {
+        setPatterns(result.patterns);
+        return;
+      }
+      fetch(PATTERNS_JSON_URL).then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      }).then(data => {
+        const items = Array.isArray(data) ? data : [data];
+        const withIds = items.map((item, i) => ({
+          id: item.id || `p_file_${i}_${Math.random().toString(36).substr(2, 6)}`,
+          group: item.group || 'Chapter 03',
+          level: item.level || 'N3',
+          template: item.template,
+          translation: item.translation || '',
+          components: item.components
+        }));
+        setPatterns(withIds);
+      }).catch(err => setPatternsLoadError(err.message));
     });
   }, []);
 
@@ -995,7 +653,7 @@ function App() {
     }, /*#__PURE__*/React.createElement("span", null, "\u7ACB\u5373\u958B\u59CB\u7279\u8A13"), /*#__PURE__*/React.createElement("span", null, "\u2192")));
   }), groupList.length === 0 && /*#__PURE__*/React.createElement("p", {
     className: "text-sm text-slate-400 text-center py-8 col-span-full"
-  }, "\u5C1A\u7121\u6559\u6750\uFF0C\u8ACB\u5148\u81F3\u300C\u532F\u5165\u300D\u65B0\u589E\u53E5\u578B\u3002"))) : /*#__PURE__*/React.createElement("div", {
+  }, patternsLoadError ? `讀取 ${PATTERNS_JSON_URL} 失敗（${patternsLoadError}），請確認檔案是否存在。` : `尚無教材，請確認 ${PATTERNS_JSON_URL} 是否已放入資料。`))) : /*#__PURE__*/React.createElement("div", {
     className: "flex flex-col gap-4"
   }, /*#__PURE__*/React.createElement("div", {
     className: "flex items-center justify-between bg-white px-3 py-2.5 rounded-2xl border border-sky-100 shadow-sm"
