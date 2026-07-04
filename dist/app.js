@@ -724,20 +724,20 @@ function App() {
     width: 600,
     height: 48,
     className: "w-full h-full"
-  }))), isPlaying ? /*#__PURE__*/React.createElement("button", {
+  }))), /*#__PURE__*/React.createElement("div", {
+    className: "flex items-center gap-2"
+  }, isPlaying ? /*#__PURE__*/React.createElement("button", {
     onClick: stopAllPlayback,
-    className: "w-full py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-red-500 active:bg-red-600 text-white shadow-lg"
+    className: "flex-1 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-red-500 active:bg-red-600 text-white shadow-lg"
   }, "\u25A0 \u505C\u6B62\u64AD\u653E") : /*#__PURE__*/React.createElement("button", {
     onClick: () => speakSentence(generateVoiceReading(selectedPattern.template, currentSubstitutions), false),
-    className: "w-full py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-gradient-to-r from-sky-400 to-blue-500 text-white shadow-lg"
-  }, "\u25B6 \u55AE\u53E5\u767C\u97F3"), /*#__PURE__*/React.createElement("div", {
-    className: "grid grid-cols-3 gap-2"
-  }, /*#__PURE__*/React.createElement("button", {
+    className: "flex-1 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-gradient-to-r from-sky-400 to-blue-500 text-white shadow-lg"
+  }, "\u25B6 \u55AE\u53E5\u767C\u97F3"), /*#__PURE__*/React.createElement("button", {
     onClick: quickNextCombination,
-    className: "py-2.5 rounded-xl border border-sky-200 bg-sky-50 text-sky-600 text-[11px] font-extrabold flex flex-col items-center gap-0.5"
-  }, /*#__PURE__*/React.createElement("span", {
-    className: "text-base"
-  }, "\uD83C\uDFB2"), "\u5FEB\u901F\u66FF\u63DB"), /*#__PURE__*/React.createElement("button", {
+    className: "shrink-0 px-5 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-1.5 bg-sky-50 border border-sky-200 text-sky-600 active:bg-sky-100 shadow-sm"
+  }, "\u4E0B\u4E00\u7D44 \u2192")), /*#__PURE__*/React.createElement("div", {
+    className: "grid grid-cols-2 gap-2"
+  }, /*#__PURE__*/React.createElement("button", {
     onClick: () => setLoopPlay(!loopPlay),
     className: `py-2.5 rounded-xl border text-[11px] font-bold flex flex-col items-center gap-0.5 transition ${loopPlay ? 'bg-sky-100 border-sky-300 text-sky-600' : 'bg-white border-sky-100 text-slate-500'}`
   }, /*#__PURE__*/React.createElement("span", {

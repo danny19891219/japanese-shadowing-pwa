@@ -674,24 +674,26 @@ function App() {
                       </div>
 
                       {/* 主要播放按鈕 */}
-                      {isPlaying ? (
-                        <button onClick={stopAllPlayback}
-                          className="w-full py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-red-500 active:bg-red-600 text-white shadow-lg">
-                          ■ 停止播放
+                      <div className="flex items-center gap-2">
+                        {isPlaying ? (
+                          <button onClick={stopAllPlayback}
+                            className="flex-1 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-red-500 active:bg-red-600 text-white shadow-lg">
+                            ■ 停止播放
+                          </button>
+                        ) : (
+                          <button onClick={() => speakSentence(generateVoiceReading(selectedPattern.template, currentSubstitutions), false)}
+                            className="flex-1 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-gradient-to-r from-sky-400 to-blue-500 text-white shadow-lg">
+                            ▶ 單句發音
+                          </button>
+                        )}
+                        <button onClick={quickNextCombination}
+                          className="shrink-0 px-5 py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-1.5 bg-sky-50 border border-sky-200 text-sky-600 active:bg-sky-100 shadow-sm">
+                          下一組 →
                         </button>
-                      ) : (
-                        <button onClick={() => speakSentence(generateVoiceReading(selectedPattern.template, currentSubstitutions), false)}
-                          className="w-full py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 bg-gradient-to-r from-sky-400 to-blue-500 text-white shadow-lg">
-                          ▶ 單句發音
-                        </button>
-                      )}
+                      </div>
 
                       {/* 快速操作列 */}
-                      <div className="grid grid-cols-3 gap-2">
-                        <button onClick={quickNextCombination}
-                          className="py-2.5 rounded-xl border border-sky-200 bg-sky-50 text-sky-600 text-[11px] font-extrabold flex flex-col items-center gap-0.5">
-                          <span className="text-base">🎲</span>快速替換
-                        </button>
+                      <div className="grid grid-cols-2 gap-2">
                         <button onClick={() => setLoopPlay(!loopPlay)}
                           className={`py-2.5 rounded-xl border text-[11px] font-bold flex flex-col items-center gap-0.5 transition ${loopPlay ? 'bg-sky-100 border-sky-300 text-sky-600' : 'bg-white border-sky-100 text-slate-500'}`}>
                           <span className="text-base">🔁</span>單句循環 {loopPlay ? 'ON' : 'OFF'}
